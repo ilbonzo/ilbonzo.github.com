@@ -1,0 +1,33 @@
+---
+title: Forzare git ad utilizzare https
+author: Matteo Magni
+layout: post
+permalink: /2013/10/10/forzare-git-ad-utilizzare-https/
+thesis_title:
+  - Forzare git ad utilizzare https
+thesis_description:
+  - Forzare git ad utilizzare https
+thesis_keywords:
+  - git, github
+thesis_thumb:
+  - http://magni.me/wp-content/uploads/2013/05/github.png
+pdrp_attributionLocation:
+  - end
+dsq_thread_id:
+  - 1842128302
+categories:
+  - Development
+tags:
+  - git
+  - github
+  - tips
+---
+Nel caso si voglia forzare git ad utilizzare sempre la connessione https, quando utilizza <a href="http://github.com/ilbonzo" target="_blank">github</a>, possiamo impostarlo attraverso questo comando. 
+
+<pre class="lang:sh decode:true " title="Forzare git ad usare https" >git config --global url.https://github.com/.insteadOf git://github.com/</pre>
+
+<div class='kindleWidget kindleLight' >
+  <img src="http://magni.me/wp-content/plugins/send-to-kindle/media/white-15.png" /><span>Send to Kindle</span>
+</div>
+
+<a rel="author" href="https://plus.google.com/111433366670841346629?rel=author"  >Google+</a>
