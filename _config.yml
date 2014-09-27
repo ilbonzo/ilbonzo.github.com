@@ -1,7 +1,7 @@
 # Site settings
-title: Matteo Magni | Just Another Geek
+title: Matteo Magni
 email: matteo@magni.me
-description: Just Another Geek!
+description: Matteo Magni - web developer. Just Another Geek!
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://magni.me" # the base hostname & protocol for your site
 twitter_username: ilbonzo
