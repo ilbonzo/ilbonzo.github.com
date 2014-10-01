@@ -7,6 +7,8 @@ dsq_thread_id:
   - 1099137282
 categories:
   - Networking
+comments: true
+share: true
 ---
 <p>Oggi per la prima volta (so che a molti sembrerà strano) ho avuto bisogno di usare il comando ping.</p>
 <blockquote><p>Il ping è un termine onomatopeico nato per indicare un segnale sonoro di breve durata e di alta tonalità emesso da un sottomarino per segnalare la propria presenza e la propria raggiungibilità ad un altro sottomarino.<br />

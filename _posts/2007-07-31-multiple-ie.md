@@ -15,6 +15,8 @@ categories:
 tags:
   - ie
   - windows
+comments: true
+share: true
 ---
 Come già detto, per tutti quelli che sviluppano per il web è molto importante e spesso molto snervante, poter testare le proprie applicazioni con tutti i vari browser, in particolare con tutte le versioni di Internet Explorer.  
 ![Firefox eat Ie][1]  
@@ -28,7 +30,7 @@ Gabba Gabba Hey
 Bonzo
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

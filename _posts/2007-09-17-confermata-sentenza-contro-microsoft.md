@@ -7,10 +7,12 @@ dsq_thread_id:
   - 1102732444
 categories:
   - Microsoft
+comments: true
+share: true
 ---
 ![tuxfrag][1]
 
-> La Corte europea di Prima istanza ha confermato la maggior parte della decisioni dell&#8217;Antitrust Ue contro Microsoft, respingendo il ricorso presentato dalla societa&#8217; Usa. La Corte ha respinto quasi tutti i punti del ricorso della Microsoft, bocciando solo la richiesta della commissione di un gruppo di esperti. E&#8217; stata uindi confermata la multa da 497 milioni di euro inflitta al colosso del software per abuso di posizione dominante&#8230; 
+> La Corte europea di Prima istanza ha confermato la maggior parte della decisioni dell&#8217;Antitrust Ue contro Microsoft, respingendo il ricorso presentato dalla societa&#8217; Usa. La Corte ha respinto quasi tutti i punti del ricorso della Microsoft, bocciando solo la richiesta della commissione di un gruppo di esperti. E&#8217; stata uindi confermata la multa da 497 milioni di euro inflitta al colosso del software per abuso di posizione dominante&#8230;
 
 [http://www.agi.it/economia/&#8230;][2]
 
@@ -26,7 +28,7 @@ Gabba Gabba hey
 Bonzo
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

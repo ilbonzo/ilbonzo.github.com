@@ -7,6 +7,8 @@ dsq_thread_id:
   - 1106374527
 categories:
   - Development
+comments: true
+share: true
 ---
 Ho finalmente deciso di rinnovare il look del mio sito, arrivando quindi alla versione 3.0.  
 Per ora siamo ancora in Beta, ma credo che il look resterà discretamente fedele a questa versione, sono abbastanza contento del lavoro.
@@ -27,7 +29,7 @@ Gabba Gabba Hey
 Bonzo
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

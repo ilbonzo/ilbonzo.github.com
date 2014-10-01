@@ -14,6 +14,8 @@ dsq_thread_id:
 categories:
   - internet
   - Social Network
+comments: true
+share: true
 ---
 [<img src="http://farm7.static.flickr.com/6081/6025051484_d88a2510cd.jpg" width="480" height="360" alt="HJF2010 4" />][1]
 
@@ -31,7 +33,7 @@ Ho ancora **tre inviti** disponibili, se qualcuno fosse interessato si faccia av
 Gabba Gabba Hey!!!
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

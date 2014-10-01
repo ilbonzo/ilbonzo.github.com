@@ -7,6 +7,8 @@ categories:
   - Development
 tags:
   - Javascript
+comments: true
+share: true
 ---
 Funzione javascript per aggiungere una pagina ai preferiti
 
@@ -23,6 +25,5 @@ alert("Utenti: per aggiungere questo sito ai preferiti, cliccare su 'OK' poi pre
 `
 
 <div class='kindleWidget kindleLight' >
-  
-</div>
 
+</div>

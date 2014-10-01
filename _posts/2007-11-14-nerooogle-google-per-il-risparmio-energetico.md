@@ -9,14 +9,16 @@ pdrp_attributionLocation:
   - end
 categories:
   - internet
+comments: true
+share: true
 ---
-Segnalo il progetto [nerooogle][1], che realizza tramite le API del noto motore di ricerca Google una pagina simile a quella del famoso servizio ma con grafica a sfondo nero. Tutto ciò far si che chi la utilizza realizzi un piccolo risparmio energetico, dovuto al fatto che i monitor sfruttano meno energia per grafiche a sfondo nero rispetto a quelle con sfondo bianco. 
+Segnalo il progetto [nerooogle][1], che realizza tramite le API del noto motore di ricerca Google una pagina simile a quella del famoso servizio ma con grafica a sfondo nero. Tutto ciò far si che chi la utilizza realizzi un piccolo risparmio energetico, dovuto al fatto che i monitor sfruttano meno energia per grafiche a sfondo nero rispetto a quelle con sfondo bianco.
 
 Gabba Gabba hey  
 Bonzo
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

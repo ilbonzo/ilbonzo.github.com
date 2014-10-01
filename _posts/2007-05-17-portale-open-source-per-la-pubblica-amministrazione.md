@@ -8,6 +8,8 @@ dsq_thread_id:
 categories:
   - open source
   - Pubblica Amministrazione
+comments: true
+share: true
 ---
 Ieri:
 
@@ -34,7 +36,7 @@ Buon Software libero a tutti!
 Bonzo
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

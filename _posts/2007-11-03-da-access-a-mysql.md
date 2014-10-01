@@ -7,6 +7,8 @@ dsq_thread_id:
   - 1102732427
 categories:
   - SQL
+comments: true
+share: true
 ---
 Mi è capitato di dover fare un progetto PHP e MySQL partendo da un DB scritto in Access. Ecco un bel programmino che serve per convertire il Database scritto in Access in Un Database MySQL:
 
@@ -20,7 +22,7 @@ Gabba Gabba Hey
 Bonzo
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

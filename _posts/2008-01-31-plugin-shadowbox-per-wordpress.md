@@ -9,37 +9,37 @@ enclosure:
         http://blog.ilbonzo.org/gallery/kayak.mov
         860878
         video/quicktime
-        
+
   - |
     |
         http://blog.ilbonzo.org/gallery/kayak.mp4
         848200
         video/mp4
-        
+
   - |
     |
         http://blog.ilbonzo.org/gallery/kayak.avi
         1519768
         video/x-msvideo
-        
+
   - |
     |
         http://blog.ilbonzo.org/gallery/cat.wmv
         422489
         video/x-ms-wmv
-        
+
   - |
     |
         http://images.apple.com/movies/paramount/beowulf/beowulf-tr2_h.640.mov
         120
         video/quicktime
-        
+
   - |
     |
         http://blog.ilbonzo.org/gallery/alien.flv
         1784892
         video/x-flv
-        
+
 Hide SexyBookmarks:
   - 0
 Hide OgTags:
@@ -50,8 +50,10 @@ categories:
   - CMS
 tags:
   - wordpress
+comments: true
+share: true
 ---
-Ho letto di questo componente [Shadowbox][1] che è una specie di Lightbox, slimbox che consente di inserire molti tipi di contenuti: non solo foto ma video da youtube, animazioni flash, pagine html, ecc.. 
+Ho letto di questo componente [Shadowbox][1] che è una specie di Lightbox, slimbox che consente di inserire molti tipi di contenuti: non solo foto ma video da youtube, animazioni flash, pagine html, ecc..
 
 Ho quindi pensato di provare a creare il mio primo plugin per wordpress integrando questo componente.
 
@@ -65,7 +67,7 @@ Qui intanto gli esempi di come funziona Shadowbox:
 <a rel="shadowbox[Aston Martin]" href="http://blog.ilbonzo.org/gallery/aston_martin/vantage.jpg" class="option" title="Aston Martin Vantage">Image Gallery</a>
 
 <a rel="shadowbox[Aston Martin]" href="http://blog.ilbonzo.org/gallery/aston_martin/vanquish.jpg" class="hidden" title="Aston Martin Vanquish S">image</a>  
-<a rel="shadowbox[Aston Martin]" href="http://blog.ilbonzo.org/gallery/aston_martin/db9.jpg" class="hidden" title="Aston Martin DB9">image</a> 
+<a rel="shadowbox[Aston Martin]" href="http://blog.ilbonzo.org/gallery/aston_martin/db9.jpg" class="hidden" title="Aston Martin DB9">image</a>
 
 ### <a name="lgimage-demo">Large Image</a>
 
@@ -76,25 +78,25 @@ You may have to shrink your browser window to view the effect here. See the [han
     <td>
       Clipped (no resizing)
     </td>
-    
+
     <td>
       Resized
     </td>
-    
+
     <td>
       Draggable
     </td>
   </tr>
-  
+
   <tr>
     <td>
       <a rel="shadowbox;options={handleLgImages:'none'}" href="http://blog.ilbonzo.org/gallery/greatwall.jpg" title="Great Wall of China"><img src="http://blog.ilbonzo.org/gallery/greatwall-thumb.jpg" alt="" /></a>
     </td>
-    
+
     <td>
       <a rel="shadowbox" href="http://blog.ilbonzo.org/gallery/greatwall.jpg" title="Great Wall of China"><img src="http://blog.ilbonzo.org/gallery/greatwall-thumb.jpg" alt="" /></a>
     </td>
-    
+
     <td>
       <a rel="shadowbox;options={handleLgImages:'drag'}" href="http://blog.ilbonzo.org/gallery/greatwall.jpg" title="Great Wall of China"><img src="http://blog.ilbonzo.org/gallery/greatwall-thumb.jpg" alt="" /></a>
     </td>
@@ -110,11 +112,11 @@ Unlike the previous image gallery, this one is triggered by thumbnail links. It 
     <td>
       <a rel="shadowbox[MustangThumbs];options={counterType:'skip',continuous:true}" href="http://blog.ilbonzo.org/gallery/mustang/red.jpg"><img src="http://blog.ilbonzo.org/gallery/mustang/red-thumb.jpg" alt="Red" /></a>
     </td>
-    
+
     <td>
       <a rel="shadowbox[MustangThumbs];options={counterType:'skip',continuous:true}" href="http://blog.ilbonzo.org/gallery/mustang/blue.jpg"><img src="http://blog.ilbonzo.org/gallery/mustang/blue-thumb.jpg" alt="Red" /></a>
     </td>
-    
+
     <td>
       <a rel="shadowbox[MustangThumbs];options={counterType:'skip',continuous:true}" href="http://blog.ilbonzo.org/gallery/mustang/grey.jpg"><img src="http://blog.ilbonzo.org/gallery/mustang/grey-thumb.jpg" alt="Red" /></a>
     </td>
@@ -148,7 +150,7 @@ Unlike the previous image gallery, this one is triggered by thumbnail links. It 
 <a rel="shadowbox[Mixed];width=520;height=390" class="hidden" title="SWF" href="http://blog.ilbonzo.org/gallery/caveman.swf">swf</a>
 
 <a rel="shadowbox[Mixed];width=292;height=218" class="hidden" title="MPEG-4" href="http://blog.ilbonzo.org/gallery/kayak.mp4">movie</a>  
-<a rel="shadowbox[Mixed]" class="hidden" title="IFRAME" href="http://blog.ilbonzo.org/">iframe</a> 
+<a rel="shadowbox[Mixed]" class="hidden" title="IFRAME" href="http://blog.ilbonzo.org/">iframe</a>
 
 Il Plugin è molto semplice, basta caricare la cartella che si ottiene scompattando l&#8217;archivio compresso nelal cartella /wp-content/plugins, andare nella parte di amministrazione e attivare il plugin.
 
@@ -208,7 +210,7 @@ Gabba Gabba Hey
 Bonzo
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

@@ -13,6 +13,8 @@ categories:
   - Software
 tags:
   - firefox
+comments: true
+share: true
 ---
 ![google labs][1]  
 Utilizzando più computer con diversi sistemi operativi, mi sono sempre trovato in difficoltà con la mancanza di avere gli stessi segnalibri su tutti i pc.  
@@ -25,7 +27,7 @@ Gabba Gabba Hey
 Bonzo
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

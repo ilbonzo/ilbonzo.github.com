@@ -17,6 +17,8 @@ categories:
 tags:
   - facebook
   - twitter
+comments: true
+share: true
 ---
 Ho appena finito le mie due settimane di vacanza e domattina purtroppo mi appresto a tornare in ufficio, sigh.
 
@@ -26,30 +28,30 @@ In vacanza ho utilizzato i social network per lanciare un po&#8217; di domandone
 Tutto ciò caratterizzato dall&#8217;hashtag [#sonproblemi][2].  
 Ecco le domande:
 
-[Domandona: in spiaggia slip o bermuda?][3] 
+[Domandona: in spiaggia slip o bermuda?][3]
 :   Qui sopratutto i ragazzi su facebook si sono espressi convincendomi che, nonostante l&#8217;età, posso ancora &#8220;permettermi&#8221; il costumino.
 
 
-[Domandona: in spiaggia crocs o infradito? ][4] 
+[Domandona: in spiaggia crocs o infradito? ][4]
 :   Nonostante io le trovassi molto comode tutti mi hanno suggerito di abbandonare le Crocs per le infradito molto più cool.
 
 
-[Domandona: spiaggia di sabbia o spiaggia di sassi?][5] 
+[Domandona: spiaggia di sabbia o spiaggia di sassi?][5]
 :   L&#8217;unanimità ha espresso una preferenza per i sassi, che non ti si incastrano nel costumino.  
-    Ciò non mi ha creato molti problemi perché l&#8217;Elba è piena di spiagge di sassi.</p> 
+    Ciò non mi ha creato molti problemi perché l&#8217;Elba è piena di spiagge di sassi.</p>
     [<img src="http://farm7.static.flickr.com/6012/5923423237_5d7e229fee.jpg" width="500" height="333" alt="Elba 2011" />][6]
 
-[Domandona: in spiaggia Gazzetta dello Sport @Gazzetta_it o Corriere dello Sport-Stadio @CorSport?][7] 
-:   nonostante io fossi affezionato alla lettura di quotidiani sportivi alcuni hanno suggerito letture più &#8220;maschili&#8221; tipo pentahouse e cronaca vera e devo ammettere che non è stato male.</p> 
+[Domandona: in spiaggia Gazzetta dello Sport @Gazzetta_it o Corriere dello Sport-Stadio @CorSport?][7]
+:   nonostante io fossi affezionato alla lettura di quotidiani sportivi alcuni hanno suggerito letture più &#8220;maschili&#8221; tipo pentahouse e cronaca vera e devo ammettere che non è stato male.</p>
     [<img src="http://twitpic.com/show/thumb/5lxdk9.jpg" width="150" alt="@gianiaz @scannaporci mi sono impegnato ma @Penthouse proprio... on Twitpic" />][8]
 
-[Domandona: per prendere il sole in piscina cosa metto nelle cuffie SOAD, Pearl Jam,Blind Melon,Bush,Negrita, Husker Du o cosa?][9] 
+[Domandona: per prendere il sole in piscina cosa metto nelle cuffie SOAD, Pearl Jam,Blind Melon,Bush,Negrita, Husker Du o cosa?][9]
 :   Qui alla fine siamo andati di [Jane&#8217;s Addiction][10] e di [Blind Melon][11] ed il risultato è stato ottimo!  
-      
-    
 
 
-[Domandona: in spiaggia cornetto o ghiacciolo][12] 
+
+
+[Domandona: in spiaggia cornetto o ghiacciolo][12]
 :   Vittoria di misura per il ghiacciolo, scelta doverosa nei confronti della mia pessima linea.
 
 
@@ -66,7 +68,7 @@ Domani si torna a lavoro e quindi anche qui ho chiesto &#8220;aiuto&#8221; alla 
 Gabba Gabba Hey!!
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

@@ -9,6 +9,8 @@ pdrp_attributionLocation:
   - end
 categories:
   - linux
+comments: true
+share: true
 ---
 <p><a href="http://www.laptop.org/index.it.html"><img src='http://magni.me/wp-content/uploads/2007/05/nigerian-machine.jpg' alt='olpc' /></a><br />
 Attorno al progetto <a href="http://www.mytech.it/news/articolo/idA028001063565.art">One Laptop Per Child</a> si sta creando un po&#8217; di scontro:<br />

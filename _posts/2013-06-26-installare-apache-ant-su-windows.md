@@ -22,6 +22,8 @@ tags:
   - Android
   - Ant
   - Java
+comments: true
+share: true
 ---
 <img src="http://magni.me/wp-content/uploads/2013/06/554px-Apache-Ant-logo.svg_-300x185.png" alt="554px-Apache-Ant-logo.svg" width="300" height="185" class="aligncenter size-medium wp-image-886" />  
 **[Apache Ant][1]** è un software molto utile per lo sviluppo in *Java*:
@@ -37,17 +39,17 @@ Per lo sviluppo su *Android* per esempio viene utilizzato Ant per gestire la bui
 4.  Sacricare **ANT** in versione binaria <http://ant.apache.org/bindownload.cgi>
 5.  Estrarre lo zip in una cartella, esempio `"C:\Ant"`
 6.  Impostare la variabile di ambiente ANT_HOME inserendo il percorso dove abbiamo scompattato **ANT**, esempio `"C:\Ant"`
-7.  A questo punto per verificare che sia tutto ok apriamo una riga di comando e diamo il comando ant -version: 
+7.  A questo punto per verificare che sia tutto ok apriamo una riga di comando e diamo il comando ant -version:
     `<br />
 C:\Users\magnim>ant -version<br />
 Apache Ant(TM) version 1.9.1 compiled on May 15 2013<br />
-` </li> 
+` </li>
     Se l&#8217;output non da errori vuol dire che Ant è installato correttamente.
-    
+
     <div class='kindleWidget kindleLight' >
-      
+
     </div>
-    
-    
+
+
 
  [1]: http://ant.apache.org/ "apache Ant"

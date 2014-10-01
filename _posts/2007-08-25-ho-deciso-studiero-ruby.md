@@ -11,6 +11,8 @@ categories:
   - Development
 tags:
   - Ruby
+comments: true
+share: true
 ---
 Ebbene si, alla fine ho deciso, studierò [Ruby][1]! Come molti negli ultimi tempi mi sono fatto attrarre da questo linguaggio venuto dall&#8217;oriente, in particolare dal Giappone.  
 Le cose che mi attraggono in ruby sono queste:
@@ -35,7 +37,7 @@ Gabba Gabba Hey
 Bonzo
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

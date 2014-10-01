@@ -8,6 +8,8 @@ dsq_thread_id:
 categories:
   - linux
   - Microsoft
+comments: true
+share: true
 ---
 Forse per i recenti accordi stipulati tra la casa di Redmond e alcuni distributori di Linux, forse per dimostrare che anche Linux sarà di proprietà microsoft, comunque un utente Ubuntu ha raccontato, e filmato di essere riuscito a passare il controllo WGA con la sua Ubuntu invece che con Windows&#8230;
 
@@ -19,7 +21,7 @@ Gabba Gabba Hey
 Bonzo
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

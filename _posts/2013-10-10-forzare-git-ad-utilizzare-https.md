@@ -21,12 +21,13 @@ tags:
   - git
   - github
   - tips
+comments: true
+share: true
 ---
-Nel caso si voglia forzare git ad utilizzare sempre la connessione https, quando utilizza <a href="http://github.com/ilbonzo" target="_blank">github</a>, possiamo impostarlo attraverso questo comando. 
+Nel caso si voglia forzare git ad utilizzare sempre la connessione https, quando utilizza <a href="http://github.com/ilbonzo" target="_blank">github</a>, possiamo impostarlo attraverso questo comando.
 
 <pre class="lang:sh decode:true " title="Forzare git ad usare https" >git config --global url.https://github.com/.insteadOf git://github.com/</pre>
 
 <div class='kindleWidget kindleLight' >
-  
-</div>
 
+</div>

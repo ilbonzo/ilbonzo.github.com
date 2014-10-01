@@ -9,6 +9,8 @@ categories:
   - Networking
   - open source
   - virtualizzazione
+comments: true
+share: true
 ---
 Ultimamente ho avuto la fortuna di partecipare a un evento della Dell in tour in Italia.  
 Durante questo evento è stato lasciata la parola ad alcuni Vendor che collaborano con Dell, in particolare mi ha colpito l&#8217;intervento fatto da [VMware][1] che ha illustrato i vantaggi della virtualizzazione in ambito server.  
@@ -30,7 +32,7 @@ Gabba Gabba Hey
 Bonzo
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

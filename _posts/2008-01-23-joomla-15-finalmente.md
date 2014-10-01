@@ -13,6 +13,8 @@ categories:
   - CMS
 tags:
   - joomla
+comments: true
+share: true
 ---
 <p>Dopo una lunga attesa è finalmente uscito Joomla 1.5 versione stabile.</p>
 <p><a href="http://www.joomla.org/">http://www.joomla.org/</a></p>

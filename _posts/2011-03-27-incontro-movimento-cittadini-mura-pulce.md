@@ -8,6 +8,8 @@ dsq_thread_id:
 categories:
   - Politica
   - Pubblica Amministrazione
+comments: true
+share: true
 ---
 Alla luce dell&#8217;intenzione del Comune di San Lazzaro di Savena di edificare senza troppi limiti, con lo &#8220;scopo&#8221; di ottenere in cambio dei servizi, il movimento cittadini Mura e Pulce ha organizzato una riunione per capire se è possibile fare qualcosa per tutelare il nostro bel quartiere.  
 [Volantino][1]incontro 31 marzo 2011.
@@ -15,7 +17,7 @@ Alla luce dell&#8217;intenzione del Comune di San Lazzaro di Savena di edificare
 [<img src="http://magni.me/wp-content/uploads/2011/03/Schermata-MCMSCP-incontro-31-marzo-2011-ok.png" alt="MCMP incontro 31 marzo 2011" title="MCMP incontro 31 marzo 2011" width="600" height="497" class="aligncenter size-full wp-image-433" />][2]
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

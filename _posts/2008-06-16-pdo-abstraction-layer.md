@@ -15,6 +15,8 @@ categories:
   - Development
 tags:
   - PHP
+comments: true
+share: true
 ---
 Finalmente con la versione 5.1 PHP ha un nuovo livello di astrazione per la connettività con i database veramente valido.  
 **[PDO][1], PHP Data Objects**
@@ -83,7 +85,7 @@ Query fatta con errore, mi restituisce il numero dell&#8217;errore:
 `<br />
 $mypdo->exec('SELECT * FROM SELECT'); // errore generato appositamente<br />
 echo 'Errore N: '.$mypdo->errorCode();<br />
-` 
+`
 
 Se la uso così è molto utile, mando io il messaggio che voglio:  
 `<br />
@@ -423,7 +425,7 @@ Gabba Gabba Hey
 Bonzo
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

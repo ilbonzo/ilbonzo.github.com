@@ -13,6 +13,8 @@ categories:
   - Social Network
 tags:
   - privacy
+comments: true
+share: true
 ---
 Ho letto questo post su [www.salon.com][1] e devo dire che mi ci ritrovo molto.  
 [<img src="http://farm5.static.flickr.com/4044/4699424671_8f87592a9f_m.jpg" width="240" height="180" alt="Forza azzurri" />][2]  
@@ -29,7 +31,7 @@ Ultimamente Si è parlato molto di Report e della puntata sulla rete, io condivi
 **Private companies aren’t motivated by your best interests**.
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

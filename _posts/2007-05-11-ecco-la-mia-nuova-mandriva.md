@@ -5,6 +5,8 @@ layout: post
 permalink: /2007/05/11/ecco-la-mia-nuova-mandriva/
 categories:
   - linux
+comments: true
+share: true
 ---
 <p>Forse non interesserà a nessuno, e sicuramente in rete ci sono screenshots migliori, ma penso che sia doveroso farvi vedere com&#8217;è uin questo momento il mio sistema operativo Linux.<br />
 Per ragioni di cuore e non solo non riesco a staccarmi da Madriva come distribuzione (ho iniziato con Mandrake 9.2), e con l&#8217;arrivo della versione 2007.1 spring ho installato la versione Gnome one, ed ecco il risultato.<br />

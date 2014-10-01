@@ -9,6 +9,8 @@ categories:
   - linux
   - Microsoft
   - open source
+comments: true
+share: true
 ---
 [XandrOS][1], noto vendor di sistemi operativi desktop e server basati su Linux, ha siglato un accordo con Microsoft molto simile a quello recentemente siglato da Novell.
 
@@ -24,7 +26,7 @@ Gabba Gabba Hey
 Bonzo
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

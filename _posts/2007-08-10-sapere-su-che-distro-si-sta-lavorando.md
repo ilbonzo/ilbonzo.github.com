@@ -5,6 +5,8 @@ layout: post
 permalink: /2007/08/10/sapere-su-che-distro-si-sta-lavorando/
 categories:
   - Development
+comments: true
+share: true
 ---
 Capita a volte di non sapere su che distribuzione si sta lavorando, e di non avere a disposizione nessuno che sappia rispondere alla domanda.  
 Ecco un comodo comando shell per visualizzare i dati della Release Linux:
@@ -34,6 +36,5 @@ Gabba Gabba Hey
 Bonzo
 
 <div class='kindleWidget kindleLight' >
-  
-</div>
 
+</div>

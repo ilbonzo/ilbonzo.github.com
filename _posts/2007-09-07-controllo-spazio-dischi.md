@@ -7,6 +7,8 @@ dsq_thread_id:
   - 1592009365
 categories:
   - linux
+comments: true
+share: true
 ---
 Per effettuare il controllo dello spazio sui dischi da shell:
 
@@ -59,7 +61,7 @@ bonzo@parker:~$ `
 
 **t** tipofs Limita l’elenco a filesystem del tipo specificato
 
-**x** tipofs Limita l’elenco a filesystem non del tipo specificato 
+**x** tipofs Limita l’elenco a filesystem non del tipo specificato
 
 Buon controllo a tutti
 
@@ -67,6 +69,5 @@ Gabba Gabba hey
 Bonzo
 
 <div class='kindleWidget kindleLight' >
-  
-</div>
 
+</div>

@@ -18,6 +18,8 @@ categories:
 tags:
   - Commodore64
   - retrocomputing
+comments: true
+share: true
 ---
 Oggi il <a href="http://it.wikipedia.org/wiki/Commodore_64" title="Commodore 64" target="_blank">Commodore 64</a> compie 30 anni.  
 Essendo stato il mio primo pc, cioè la macchina che mi ha fatto diventare un nerd, non posso non fargli gli auguri.  
@@ -35,7 +37,7 @@ Il primo amore non si scorda mai, quindi ecco le foto del mio C64 che possiedo e
 Happy hacking a tutti
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

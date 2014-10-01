@@ -19,6 +19,8 @@ tags:
   - grusp
   - PHP
   - pugbo
+comments: true
+share: true
 ---
 Finalmente con [Tassoman][1] e grazie all&#8217;aiuto del [GrUSP][2] abbiamo deciso di intraprendere [l&#8217;avventura di aprire][3] un **PHP User Group** a Bologna.
 
@@ -39,7 +41,7 @@ Nel caso vogliate informazioni su twitter potete usare l&#8217;hashtag di riferi
 Mi raccomando fatevi sentire numerosi!!!!
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

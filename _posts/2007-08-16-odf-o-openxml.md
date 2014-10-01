@@ -10,6 +10,8 @@ pdrp_attributionLocation:
 categories:
   - open source
   - Pubblica Amministrazione
+comments: true
+share: true
 ---
 <p>È in atto una specie di elezione per quello che sarà il formato per lo scambio di documenti da ufficio nel futuro.</p>
 <p>Guadagna terreno Oasis, lo standard aperto per lo scambio di file office sviluppato dall&#8217;Organization for the Advanced of Structured Informations Standards (<a href="http://www.oasis-open.org">http://www.oasis-open.org</a>)</p>

@@ -8,6 +8,8 @@ dsq_thread_id:
 categories:
   - linux
   - windows
+comments: true
+share: true
 ---
 ![teleassistenza][1]  
 Ecco a voi i due Client che uso per fare teleassistenza:
@@ -19,8 +21,8 @@ Rdesktop è un client Linux per la Rete terminal Windows che permette di usare i
 Da windows a Linux [PuTTY][3]:
 
 > è un client che permette di connettersi ad una terminale Unix sfruttando i protocolli SSH, Telnet o rlogin.
-> 
-> É una suite di software libero, inizialmente disponibile solo per Windows, ma adesso può girare anche su varie piattaforme Unix. 
+>
+> É una suite di software libero, inizialmente disponibile solo per Windows, ma adesso può girare anche su varie piattaforme Unix.
 
 Due software molto utili che mi permettono di lavorare sia se ho acceso win sia se ho (quasi sempre) acceso Linux.
 
@@ -28,7 +30,7 @@ Gabba Gabba Hey
 Bonzo
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

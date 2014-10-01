@@ -14,6 +14,8 @@ categories:
 tags:
   - eventi
   - realtà aumentata
+comments: true
+share: true
 ---
 Oggi sono stato a [IAR2011][1], la seconda edizione dell&#8217;evento sulla realtà aumentata organizzato dai ragazzi di [Joinpad][2].  
 Premetto che sono molto niubbo in merito all&#8217;argomento, quindi non posso fare molte considerazioni, comunque vorrei dire che l&#8217;esperienza è stata decisamente coinvolgente.
@@ -32,7 +34,7 @@ In conclusione, [Philip K. Dick][6] non è poi così lontano:
 
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

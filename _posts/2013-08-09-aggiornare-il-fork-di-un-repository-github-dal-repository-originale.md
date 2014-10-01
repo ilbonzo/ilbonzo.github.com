@@ -20,6 +20,8 @@ categories:
 tags:
   - git
   - github
+comments: true
+share: true
 ---
 <p style="text-align: left;">
   <img class="size-medium wp-image-907 aligncenter" alt="fork" src="http://magni.me/wp-content/uploads/2013/08/fork-300x165.png" width="300" height="165" /><br /> Se abbiamo fatto un fork di un repository su <a href="https://github.com/ilbonzo">github</a> e vogliamo aggiornare il nostro repo con le modifiche fatte anche sul repo originale dobbiamo eseguire le seguenti operazioni:
@@ -51,6 +53,5 @@ $ git push origin master<br />
 `
 
 <div class='kindleWidget kindleLight' >
-  
-</div>
 
+</div>

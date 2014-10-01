@@ -13,6 +13,8 @@ categories:
   - CMS
 tags:
   - wordpress
+comments: true
+share: true
 ---
 Fin da quando le ho scoperte ho sempre avuto un debole per le finestre modali.  
 [Lightbox][1] è probabilmente la più famosa e usata, quindi quando ho letto dell&#8217;esistenza di un [plugin][2] per [WordPress][3] che permettesse di usare comodamente questa tecnica non ho esitato a provarlo.  
@@ -28,7 +30,7 @@ Gabba Gabba Hey
 Bonzo
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

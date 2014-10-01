@@ -7,6 +7,8 @@ dsq_thread_id:
   - 1098390387
 categories:
   - css
+comments: true
+share: true
 ---
 Vediamo come creare un menu orizzontale partendo da un elenco puntato tramite i css:
 
@@ -80,7 +82,7 @@ Gabba Gabba Hey
 Bonzo
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

@@ -11,6 +11,8 @@ categories:
   - Software
 tags:
   - firefox
+comments: true
+share: true
 ---
 <p>Ecco una estensione di firefox che potrebbe rivelarsi molto utile:</p>
 <p><a href="http://www.ossblog.it/post/2871/firefly-un-filemanager-in-firefox"></p>

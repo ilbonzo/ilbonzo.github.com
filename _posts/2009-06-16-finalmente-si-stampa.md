@@ -7,6 +7,8 @@ dsq_thread_id:
   - 1130791700
 categories:
   - Development
+comments: true
+share: true
 ---
 <p>Finalmente ho configurato la stampante canon iP 1500 PIXMA su Ubuntu.</p>
 <p>Grazie ad un post su ubuntuforums.org:<br />

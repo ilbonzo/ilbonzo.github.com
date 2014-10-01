@@ -7,6 +7,8 @@ dsq_thread_id:
   - 1098409974
 categories:
   - linux
+comments: true
+share: true
 ---
 Oggi ho impostato [Evolution][1] per scaricare la posta da [Gmail][2] ed ho visto che nella pagina di aiuto del sistema di [Google][3] le istruzioni per il client di posta predefinito in [gnome][4] non ci sono.  
 Ecco quindi come fare:
@@ -21,7 +23,7 @@ Preso direttamente dalle istruzioni gmail:
 4. Seleziona Attiva POP per tutti i messaggi o Attiva la funzione POP solo per i messaggi che arrivano a partire da adesso.  
 5. Scegli l&#8217;azione che desideri eseguire per i messaggi Gmail che vengono richiamati tramite POP.  
 [è possibile, e molto utile mantenere una copia dei messaggi nell'account Gmail, avendo un comportamento simile ad Imap ma non altrettanto potente]  
-6. Configura il client POP* e quindi fai clic su Salva modifiche. 
+6. Configura il client POP* e quindi fai clic su Salva modifiche.
 
 Aprire Evolution  
 Modifica -> Preferenze -> Aggiungi  
@@ -49,7 +51,7 @@ Mettendo l&#8217;username del vostro account gmail.
 Spero che a qualcuno possa essere utile, su gmail evolution non è considerato, però è comunque un client molto usato.
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

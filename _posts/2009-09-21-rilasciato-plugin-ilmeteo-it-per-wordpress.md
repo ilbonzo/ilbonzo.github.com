@@ -13,12 +13,14 @@ categories:
   - CMS
 tags:
   - wordpress
+comments: true
+share: true
 ---
 E&#8217; stato rilasciato da [ilmeteo.it][1] un plugin per wordpress per le previsioni meteo.  
 A questo indirizzo <http://imeteo.wordpress.com/> è possibile scaricarlo e vedere le istruzioni per installarlo.
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

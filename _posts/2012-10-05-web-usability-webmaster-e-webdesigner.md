@@ -16,6 +16,8 @@ categories:
 tags:
   - Accessibilità
   - Usabilità
+comments: true
+share: true
 ---
 Queste solo le slide per il modulo sulla [Web Usability][1] utilizzate al corso per WebMaster e WebDesigner che sto tenendo in [Synergia][2] a Bologna
 
@@ -26,7 +28,7 @@ Queste solo le slide per il modulo sulla [Web Usability][1] utilizzate al corso 
 </div>
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

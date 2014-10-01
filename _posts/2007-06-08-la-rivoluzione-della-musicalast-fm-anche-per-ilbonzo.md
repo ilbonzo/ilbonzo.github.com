@@ -9,6 +9,8 @@ categories:
   - internet
   - open source
   - software libero
+comments: true
+share: true
 ---
 Oggi ho finalmente avuto tempo di smanettare un po&#8217; con [Last fm][1], la cosidetta rivoluzione della &#8220;Social music&#8221;.
 
@@ -25,12 +27,12 @@ Oggi ho ascoltato questo:
       <a title="Music like Bush" href="http://www.last.fm/listen/artist/Bush/similarartists" target="_blank" style="display:block;overflow:hidden;height:20px;width:184px;background:url(http://panther1.last.fm/widgets/images/en/header/radio/regular_red.png) no-repeat 0 -20px;text-decoration:none;"></a>
     </td>
   </tr>
-  
+
   <tr class="lfmEmbed">
     <td>
     </td>
   </tr>
-  
+
   <tr class="lfmFoot">
     <td style="background:url(http://panther1.last.fm/widgets/images/footer_bg/red.png) repeat-x 0 0;text-align:right;">
       <table cellspacing="0" cellpadding="0" border="0" style="width:184px;">
@@ -38,11 +40,11 @@ Oggi ho ascoltato questo:
           <td class="lfmConfig">
             <a href="http://www.last.fm/widgets/?widget=radio&url=artist%2FBush%2Fsimilarartists&colour=red&width=regular&autostart=&from=widget" title="Get your own widget" target="_blank" style="display:block;overflow:hidden;width:85px;height:20px;float:right;background:url(http://panther1.last.fm/widgets/images/en/footer/red_np.png) no-repeat 0px -20px;text-decoration:none;"></a>
           </td>
-          
+
           <td class="lfmView" style="width:74px;">
             <a href="http://www.last.fm/" title="Visit Last.fm" target="_blank" style="display:block;overflow:hidden;width:74px;height:20px;background:url(http://panther1.last.fm/widgets/images/en/footer/red_np.png) no-repeat -85px -20px;text-decoration:none;"></a>
           </td>
-          
+
           <td class="lfmPopup"style="width:25px;">
             <a href="http://www.last.fm/widgets/popup/?widget=radio&url=artist%2FBush%2Fsimilarartists&colour=red&width=regular&autostart=&from=widget&resize=1" title="Load this radio in a pop up" target="_blank" style="display:block;overflow:hidden;width:25px;height:20px;background:url(http://panther1.last.fm/widgets/images/en/footer/red_np.png) no-repeat -159px -20px;text-decoration:none;" onclick="window.open(this.href + '&resize=0','lfm_popup','height=240,width=234,resizable=yes,scrollbars=yes'); return false;"></a>
           </td>
@@ -64,7 +66,7 @@ Gabba Gabba Hey
 Bonzo
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

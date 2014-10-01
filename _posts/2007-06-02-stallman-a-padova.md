@@ -7,11 +7,13 @@ dsq_thread_id:
   - 1102732176
 categories:
   - software libero
+comments: true
+share: true
 ---
 ![Stallman][1]
 
 > Buongiorno a tutti cari soci del PLUTO
-> 
+>
 > spero stiate tutti bene e vi scrivo per darvi una grande notizia: grazie  
 > ad una fortunata idea di un nostro socio, siamo venuti a sapere che tra  
 > non molto Richard M. Stallman, il fondatore del Movimento per il Free  
@@ -30,7 +32,7 @@ Gabba Gabba Hey
 Bonzo
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

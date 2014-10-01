@@ -9,6 +9,8 @@ categories:
   - Politica
 tags:
   - PD
+comments: true
+share: true
 ---
 Sabato 6 e Domenica 7 novembre sono stato a Firenze per partecipare all&#8217;evento [Prossima Fermata italia][1].  
 Le giornate sono state caratterizzate da interventi aperti a tutti di massimo 5 minuti con l&#8217;idea di raccontare in positivo quello che vogliamo fare per l&#8217;italia.
@@ -59,7 +61,7 @@ Ed in conclusione la **Carta di Firenze**:
 <http://www.andiamooltre.it/firenze/ultime/carta-di-firenze.html>
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

@@ -16,6 +16,8 @@ categories:
 tags:
   - Javascript
   - wordpress
+comments: true
+share: true
 ---
 Come ho già avuto occasione di dire, mi piacciono molto le finestre modali per la visualizzazione delle immagini e dove potevo le ho sempre inserite.  
 Fino ad ora ho utilizzato in particolare <a href="http://www.huddletogether.com/projects/lightbox2/" class="Tips3" title="huddletogether.com lightbox2">lightbox</a>, ma ovviamente ho testato anche altre soluzioni. Ultimamente però ho preso la decisione di utilizzare principalmente <a href="http://mootools.net/" class="Tips3" title="framework javascipt mootools">mootools</a> come framework javascript quindi, visto che è più funzionale caricare solo una libreria per non appesantire troppo i client, ho deciso di sostituire lightbox con <a href="http://www.digitalia.be/software/slimbox" class="Tips3" title="Finestra modale con slimbox">slimbox</a> utilizzando il plugin relativo anche sul blog:
@@ -45,7 +47,7 @@ Gabba Gabba Hey
 Bonzo
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

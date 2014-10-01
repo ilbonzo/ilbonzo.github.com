@@ -9,6 +9,8 @@ categories:
   - linux
 tags:
   - formazione
+comments: true
+share: true
 ---
 Recentemente ho conseguito la certificazione LPI di primo livello, vediamo un po&#8217; in cosa consiste e che materiale ho utilizzato per ottenerla.
 
@@ -62,7 +64,7 @@ Dimenticavo, la maggior parte del materiale e l&#8217;esame sono ovviamente in i
 Questa è stata la mia esperienza, in futuro ovviamente cercherò di ottenere anche la certificazione di livello 2.
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

@@ -7,6 +7,8 @@ dsq_thread_id:
   - 1102732473
 categories:
   - internet
+comments: true
+share: true
 ---
 Davvero incredibile, dopo un investimento iniziale incredibile e dopo neanche un anno on-line [italia.it][1] viene chiuso.
 
@@ -20,7 +22,7 @@ Gabba Gabba Hey
 Bonzo
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

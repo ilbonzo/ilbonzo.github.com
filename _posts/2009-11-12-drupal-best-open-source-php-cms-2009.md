@@ -15,13 +15,15 @@ tags:
   - drupal
   - joomla
   - wordpress
+comments: true
+share: true
 ---
 Drupal [riVince][1] l&#8217;Open Source CMS Award 2009 nella categoria Best Open Source PHP CMS rilasciato sotto licenza GNU/GPL o equivalente.  
 Secondi a parimerito Joomla e Worpress.  
 Tra i milgiori CMS non in PHP invece vince Plone.
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

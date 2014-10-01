@@ -13,6 +13,8 @@ categories:
   - Development
 tags:
   - subversion
+comments: true
+share: true
 ---
 Windows:  
 `<br />
@@ -27,6 +29,5 @@ find ./ -name .svn -exec rm -rf {} +<br />
 `
 
 <div class='kindleWidget kindleLight' >
-  
-</div>
 
+</div>

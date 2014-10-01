@@ -16,6 +16,8 @@ categories:
 tags:
   - drupal
   - PHP
+comments: true
+share: true
 ---
 Ultimamente mi sono concentrato molto su [Drupal][1], soprattutto per la sua flessibilità e modularità.  
 La possibilità di scrivere un modulo, che aggiunge funzioni, senza andare a toccare il core del resto del cms è veramente molto utile e produttivo.
@@ -96,7 +98,7 @@ Con questi file dentro la cartella nodelist e caricata nella cartella modules vi
 Abilitandolo avrete il nuovo blocco a disposizione.
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

@@ -13,6 +13,8 @@ categories:
   - CMS
 tags:
   - wordpress
+comments: true
+share: true
 ---
 Ecco &#8220;finalmente&#8221; la versione 0.2 del mio [plugin Shadowbox per wordpress][1].
 
@@ -35,7 +37,7 @@ Gabba Gabba Hey
 Bonzo
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

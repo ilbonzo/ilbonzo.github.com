@@ -7,6 +7,8 @@ dsq_thread_id:
   - 1865421227
 categories:
   - Development
+comments: true
+share: true
 ---
 <p>Oggi ho visto e provato questa ottima guida per installare Java su Mandriva 2007.1<br />
 <a href="http://www.mandrakeitalia.org/modules/wfsection/article.php?page=1&#038;articleid=228"></p>

@@ -9,6 +9,8 @@ categories:
   - linux
   - virtualizzazione
   - windows
+comments: true
+share: true
 ---
 <p><a href="http://www.vmware.com/">VmWare</a> tempo fa ha rilasciato gratuitamente una versione server del suo prodotto di virtualizzazione.</p>
 <p><a href="http://www.vmware.com/download/server/">VmWare Server</a> permette a tutti di creare e utilizzare macchine virtuali riuscendo ad emulare vari sistemi operativi.</p>

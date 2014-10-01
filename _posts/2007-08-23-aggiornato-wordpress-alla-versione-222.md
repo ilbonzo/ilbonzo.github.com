@@ -11,6 +11,8 @@ categories:
   - CMS
 tags:
   - wordpress
+comments: true
+share: true
 ---
 Recentemente ho aggiornato il mio Blog fatto con wordpress alla versione 2.2.2.
 
@@ -26,7 +28,7 @@ Gabba Gabba Hey
 Bonzo
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

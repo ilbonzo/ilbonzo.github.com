@@ -14,6 +14,8 @@ categories:
   - Pubblica Amministrazione
 tags:
   - drupal
+comments: true
+share: true
 ---
 La Casa Bianca modifica il proprio sito appoggiandolo su Drupal. Esteriormente il sito non è cambiato, ma alle spalle ora c&#8217;è il mio CMS preferito.  
 Complimenti a loro.
@@ -21,7 +23,7 @@ Complimenti a loro.
 [via Ossblog ][1]
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

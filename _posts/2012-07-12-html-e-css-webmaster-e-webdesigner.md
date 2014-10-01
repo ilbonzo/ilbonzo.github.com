@@ -20,6 +20,8 @@ categories:
   - HTML
 tags:
   - formazione
+comments: true
+share: true
 ---
 Queste solo le slide per il modulo di base su <a href="http://it.wikipedia.org/wiki/HTML" title="wikipedia HTML" target="_blank">HTML</a> e <a href="http://it.wikipedia.org/wiki/Css" title="Css su wikipedia" target="_blank">Css</a> utilizzate al corso per WebMaster e WebDesigner che sto tenendo in <a href="http://www.synergia.it/" title="Synergia" target="_blank">Synergia</a> a Bologna
 
@@ -33,7 +35,7 @@ Su [github][1] è possibile vedere il codice utilizzato durante le lezioni.
 [https://github.com/ilbonzo/Cypher][2]
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

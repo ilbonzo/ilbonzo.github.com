@@ -13,6 +13,8 @@ dsq_thread_id:
   - 1658113336
 categories:
   - Politica
+comments: true
+share: true
 ---
 Purtroppo non ho potuto partecipare, quindi mi sono guardato un po&#8217; di video:
 
@@ -25,7 +27,7 @@ Purtroppo non ho potuto partecipare, quindi mi sono guardato un po&#8217; di vid
 [Debora Serracchiani &#8211; Il nostro tempo][4] from [Prossimaitalia][2] on [Vimeo][3].
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

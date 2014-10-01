@@ -24,6 +24,8 @@ tags:
   - requirejs
   - San Giovanni in Persiceto
   - Silex
+comments: true
+share: true
 ---
 <p style="text-align: center;">
   <a href="http://app.sanzvan.it"><img class="size-medium wp-image-952 aligncenter" alt="qr-logo" src="http://magni.me/wp-content/uploads/2013/09/qr-logo-300x300.png" width="300" height="300" /></a>
@@ -54,7 +56,7 @@ Il codice è disponibile su [github][2] ed è rilasciato sotto licenza [GNU Gene
 Nel caso qualcuno volesse fare suggerimenti o contribuire al progetto può contattarmi a *sanzvan(@)magni.me*.
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

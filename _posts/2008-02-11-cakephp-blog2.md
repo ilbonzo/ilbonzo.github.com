@@ -16,6 +16,8 @@ categories:
 tags:
   - cakePHP
   - PHP
+comments: true
+share: true
 ---
 Andiamo avanti con la realizzazione del blog scritto con <a href="http://cakephp.org" class="Tips3" title="CakePHP framework web">CakePHP</a>.
 
@@ -248,6 +250,5 @@ Gabba Gabba Hey
 Bonzo
 
 <div class='kindleWidget kindleLight' >
-  
-</div>
 
+</div>

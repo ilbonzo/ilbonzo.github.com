@@ -19,6 +19,8 @@ categories:
 tags:
   - SEO
   - Web Marketing
+comments: true
+share: true
 ---
 Queste solo le slide per il modulo su <a href="http://it.wikipedia.org/wiki/Ottimizzazione_(motori_di_ricerca)" title="wikipedia SEO" target="_blank">SEO</a> e <a href="http://it.wikipedia.org/wiki/Webmarketing" title="web marketing su wikipedia" target="_blank">Web Marketing</a> utilizzate al corso per WebMaster e WebDesigner che sto tenendo in <a href="http://www.synergia.it/" title="Synergia" target="_blank">Synergia</a> a Bologna
 
@@ -29,6 +31,5 @@ Queste solo le slide per il modulo su <a href="http://it.wikipedia.org/wiki/Otti
 </div>
 
 <div class='kindleWidget kindleLight' >
-  
-</div>
 
+</div>

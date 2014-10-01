@@ -13,6 +13,8 @@ categories:
   - personale
 tags:
   - Comics
+comments: true
+share: true
 ---
 Domani sera dovrei dare spazio alla mia vena Nerd/ggiovane/Comics andando a vedere **[Thor][1]**.
 
@@ -30,7 +32,7 @@ Certo Thor senza Donald Blake non sarà la stessa cosa, ma credo ci si potrà di
 Gabba Gabba Hey!!
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

@@ -24,6 +24,8 @@ tags:
   - Grunt
   - nodejs
   - Sass
+comments: true
+share: true
 ---
 Lavorando con **<a href="http://sass-lang.com/" target="_blank">Sass</a>** si sente subito l&#8217;esigenza di avere un tool che ci generi in automatico i file .css, le possibilità sono tante, una di queste può essere l&#8217;uso di **<a href="http://gruntjs.com/" target="_blank">Grunt</a>**.
 

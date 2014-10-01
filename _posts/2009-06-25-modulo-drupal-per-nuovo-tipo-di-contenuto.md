@@ -16,6 +16,8 @@ categories:
 tags:
   - drupal
   - PHP
+comments: true
+share: true
 ---
 In Drupal è molto semplice sviluppare un modulo che permeta di avere a disposizione un nuovo tipo di contenuto che estenda il classico nodo.
 
@@ -240,6 +242,5 @@ KEY \`node\_type\_book_nid\` (nid)
 Dopo aver creato la tabella e attivato il modulo avrete un nuovo tipo di contenuto disponibile.
 
 <div class='kindleWidget kindleLight' >
-  
-</div>
 
+</div>

@@ -12,6 +12,8 @@ dsq_thread_id:
 categories:
   - linux
   - windows
+comments: true
+share: true
 ---
 Spesso capita di dover lavorare su una postazione windows e di sentire la mancanza di linux o di qualche suo programma specifico.  
 Magari è solo una sensazione da geek, più che una vera esigenza, ma spesso questa situazione provoca grossi stati di &#8220;ansia&#8221;. Di solito per supplire a questa mancanza si ricorre ad una bella virtualizzazione ed ai programmi multipiattaforma (mozilla,OOo&#8230;).  
@@ -53,7 +55,7 @@ Gabba Gabba Hey
 Bonzo
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

@@ -8,6 +8,8 @@ dsq_thread_id:
 categories:
   - Networking
   - Pubblica Amministrazione
+comments: true
+share: true
 ---
 Nell&#8217;ultimo periodo si è parlato molto della Tecnologia [wiMax][1], come salvatore della patria, per tutte quelle persone che non riescono ad avere una connettività a larga Banda grazie alle tecnologie che utilizzano il cablaggio.  
 Dopo che le Frequenze utilizzate da questa tecnica, prima occupate dai militari, sono state liberate, si è aperta la caccia a questa tecnologia.  
@@ -31,7 +33,7 @@ Gabba Gabba Hey
 Bonzo
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

@@ -9,6 +9,8 @@ pdrp_attributionLocation:
   - end
 categories:
   - linux
+comments: true
+share: true
 ---
 [Laura Breeden][1] aveva comprato un Compaq Presario C304NR in Gennaio con già l&#8217;intenzione di sostituire Windows con Ubuntu. Aveva scelto quel modello proprio perché il venditore gli aveva detto che era **Linux Ready**.  
 Dopo aver installato Ubuntu Edgy, passate poche settimane, la tastiera ha cominciato a malfunzionare. Essendo il Pc in garanzia Laura ha chiamato l&#8217;assistenza Compaq/HP i quali le hanno subito domandato che sistema operativo stava usando. Laura ovviamente ha risposto Linux e quindi si è sentita rispondere:
@@ -26,7 +28,7 @@ Se è così diventa un problema per tutti gli utenti Linux, visto che in giro si
 Aspettiamo che altri seguano Dell e comincino a produrre computer garantiti con Linux e magari anch con Bsd o tutti i gli altri sistemi operativi che voglio provare&#8230;.
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

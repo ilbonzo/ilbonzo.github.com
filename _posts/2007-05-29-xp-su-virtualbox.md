@@ -9,15 +9,17 @@ categories:
   - linux
   - Networking
   - virtualizzazione
+comments: true
+share: true
 ---
 Ultimamente si sta dando molto spazio alla virtualizzazione, se ne parla spesso, e sembra una delle nuove frontiere dell&#8217;informatica.  
-I vantaggi dal punto di vista delle risorse sono effettivamente notevoli. 
+I vantaggi dal punto di vista delle risorse sono effettivamente notevoli.
 
 Visto che su mandriva viene distribuita [Virtualbox][1] ho deciso di provare questo emulatore provando a fare girare Xp sulla mia distribuzione Linux.
 
 Di recente però la Innotek ha rilasciato sotto licenza [GPL][2] il proprio software più ambizioso: VirtualBox. Si tratta di un nuovo concorrente nel già affollato panorama di sistemi di virtualizzazione, ed entra in competizione diretta con VMWare, di cui ricorda un po&#8217; l&#8217;interfaccia.  
 VirtualBox supporta più macchine virtuali, per le quali è possibile definire delle impostazioni personalizzate: quantità di memoria RAM dedicata al sistema operativo ospite, alle impostazioni relative ai dispositivi che devono essere attivati, quali lettori CDRom, Floppy, Hard Disk, USB.  
-I sistemi operativi supportati sono molti: diverse versioni di Linux, diversi BSD, Solaris, NetWare, OS/2, e ovviamente tutte le versioni di Windows, compreso l&#8217;ultimo arrivato, Vista! 
+I sistemi operativi supportati sono molti: diverse versioni di Linux, diversi BSD, Solaris, NetWare, OS/2, e ovviamente tutte le versioni di Windows, compreso l&#8217;ultimo arrivato, Vista!
 
 L&#8217;installazione è risultata molto semplice e dopo poco mi sono trovato a poter usare Windows all&#8217;interno di Linux.
 
@@ -38,7 +40,7 @@ Gabba Gabba Hey
 Bonzo
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

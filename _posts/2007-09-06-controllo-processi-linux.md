@@ -7,6 +7,8 @@ dsq_thread_id:
   - 1876164506
 categories:
   - linux
+comments: true
+share: true
 ---
 Un processo è un programma in esecuzione.  
 Ogni processo sul sistema ha un ID di processo (PID) numerico. Per avere un elenco dei processi si usa il comando ps.
@@ -22,7 +24,7 @@ colosso:~# `
 *   TTY la periferica di terminale in cui il processo è in esecuzione
 *   STAT Stato del processo, ciò che il processo sta facendo e dove risiede la sua memoria.
 *   TIME La quantità di tempo della CPU (minuti e secondi) che il processo ha utilizzato fino a quel momento.
-*   COMMAND 
+*   COMMAND
 
 **  
 ps ax **  
@@ -140,6 +142,5 @@ Gabba Gabba Hey
 Bonzo
 
 <div class='kindleWidget kindleLight' >
-  
-</div>
 
+</div>

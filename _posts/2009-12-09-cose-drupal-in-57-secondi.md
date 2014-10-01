@@ -13,10 +13,11 @@ categories:
   - CMS
 tags:
   - drupal
+comments: true
+share: true
 ---
 Video che spiega cos&#8217;è drupal in 57 secondi.
 
 <div class='kindleWidget kindleLight' >
-  
-</div>
 
+</div>

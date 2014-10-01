@@ -18,6 +18,8 @@ categories:
 tags:
   - Javascript
   - jQuery
+comments: true
+share: true
 ---
 Queste solo le slide per il modulo su [jQuery][1] utilizzate al corso per WebMaster e WebDesigner che sto tenendo in [Synergia][2] a Bologna.
 
@@ -28,7 +30,7 @@ Queste solo le slide per il modulo su [jQuery][1] utilizzate al corso per WebMas
 </div>
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

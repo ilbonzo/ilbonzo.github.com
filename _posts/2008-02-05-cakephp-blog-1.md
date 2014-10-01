@@ -16,6 +16,8 @@ categories:
 tags:
   - cakePHP
   - PHP
+comments: true
+share: true
 ---
 Comincio a fare &#8220;sul serio&#8221; con l&#8217;uso di CAkePHP, ora proverò a creare un blog.
 
@@ -23,12 +25,12 @@ Comincio a fare &#8220;sul serio&#8221; con l&#8217;uso di CAkePHP, ora proverò
 
 > Per prima cosa  
 > Ecco alcuni accorgimenti sulle regole che devono seguire le tabelle (naming convention):
-> 
+>
 > *   I nomi devono essere in plurale inglese (posts ad esempio), in modo che i modelli corrispondenti abbiano nomi in singolare;
-> *   tutte le tabelle devono avere una chiave primaria chiamata id; 
+> *   tutte le tabelle devono avere una chiave primaria chiamata id;
 > *   le chiavi esterne utilizzate per costruire le relazioni tra le tabelle devono essere nomiate utilizzando il singolare della tabella a cui fanno riferimento seguito da \_id (post\_id per esempio);
-> *   è possibile includere i campi created e modified che verranno automaticamente aggiornati da CakePHP quando si opererà sui record. 
-> 
+> *   è possibile includere i campi created e modified che verranno automaticamente aggiornati da CakePHP quando si opererà sui record.
+>
 > Cake contiente una classe *inflections* che si occupa di ottenere i plurali dei vari nomi.
 
 Creo il database **blog_cake**.
@@ -183,6 +185,5 @@ Gabba Gabba Hey
 Bonzo
 
 <div class='kindleWidget kindleLight' >
-  
-</div>
 
+</div>

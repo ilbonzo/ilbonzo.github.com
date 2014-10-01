@@ -17,6 +17,8 @@ categories:
 tags:
   - Css3
   - HTML5
+comments: true
+share: true
 ---
 Queste solo le slide per il modulo su [HTML5][1] e [Css3][2] utilizzate al corso per WebMaster e WebDesigner che sto tenendo in Synergia a Bologna.
 
@@ -27,7 +29,7 @@ Queste solo le slide per il modulo su [HTML5][1] e [Css3][2] utilizzate al corso
 </div>
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

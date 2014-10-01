@@ -9,12 +9,13 @@ categories:
   - Development
 tags:
   - internet
+comments: true
+share: true
 ---
 Oggi il web compie 20 anni!!!
 
 http://info.cern.ch/www20/
 
 <div class='kindleWidget kindleLight' >
-  
-</div>
 
+</div>

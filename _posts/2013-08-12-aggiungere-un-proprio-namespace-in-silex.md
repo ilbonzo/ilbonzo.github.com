@@ -20,6 +20,8 @@ categories:
 tags:
   - PHP
   - Silex
+comments: true
+share: true
 ---
 <img class="alignnone size-full wp-image-919 aligncenter" alt="silex" src="http://magni.me/wp-content/uploads/2013/08/silex.jpg" width="202" height="202" />
 
@@ -80,6 +82,5 @@ $app['myclass'] = function () {
 <p>`
 
 <div class='kindleWidget kindleLight' >
-  
-</div>
 
+</div>

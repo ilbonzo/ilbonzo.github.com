@@ -9,22 +9,24 @@ pdrp_attributionLocation:
   - end
 categories:
   - software libero
+comments: true
+share: true
 ---
 ![gnu][1]  
 Il giorno 7 giugno alle ore 16, Richard Stallman e Bruce Perens saranno ascoltati presso la Commissione Cultura della Camera dei Deputati. Su invito del presidente di Commissione, onorevole Pietro Folena. Segue l’nvito in solo testo.
 
 > Egregio Sig. Stallman, egregio Sig. Perens, egregio Sig. Di Corinto
-> 
+>
 > come presidente della Commissione Cultura, Scienza e Istruzione della Camera dei Deputati dei Parlamento italiano ho il piacere di chiedervi di essere ascoltati congiuntamente da questa Commissione il giorno 7 giugno 2007.
-> 
+>
 > E’ interesse della Commissione, nell’ambito delle sue competenze, approfondire i temi del software libero/open source (comprese le loro differenze), della condivisione della conoscenza e del copyleft.
-> 
+>
 > Saranno oggetto dell’audizione, inoltre, le previsioni legislative quali il DRMA, la direttiva EUCD, la brevettazione del software, la direttiva europea Ipred2, che si pongono in contrasto con i principi basilari dei due movimenti.
-> 
+>
 > Di particolare interessante, per la Commissione, inoltre, è il legame tra software libero/open source, ricerca ed educazione.
-> 
+>
 > Nell’attesa di incontrarci, vi rivolgo i miei più cordiali saluti.
-> 
+>
 > On. Pietro Folena
 
 [  
@@ -41,7 +43,7 @@ Gabba Gabba Hey
 Bonzo
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

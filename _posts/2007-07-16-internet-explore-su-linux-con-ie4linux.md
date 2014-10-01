@@ -9,6 +9,8 @@ categories:
   - css
   - linux
   - Microsoft
+comments: true
+share: true
 ---
 Per chi sviluppa web uno dei problemi più grossi è quello di avere una visualizzazione corretta su tutti i browser.  
 Visto che il più utilizzato resta sempre IE, bisogna ingegnarsi per poterlo avere anche su Linux in tutte le sue versioni.
@@ -23,6 +25,5 @@ Gabba Gabba Hey
 Bonzo
 
 <div class='kindleWidget kindleLight' >
-  
-</div>
 
+</div>

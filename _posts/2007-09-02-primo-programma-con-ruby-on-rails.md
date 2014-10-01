@@ -12,6 +12,8 @@ categories:
 tags:
   - Ruby
   - Ruby on Rails
+comments: true
+share: true
 ---
 Un po&#8217; per i problemi con mod_ruby, un po&#8217; per la curiosità troppo forte ho iniziato a provare [Rails][1], il potente framework per la programmazione web.
 
@@ -161,7 +163,7 @@ end`
 Richiamo la pagina:
 
 > Template is missing  
-> Missing template script/../config/../app/views/hello_bonzo/index.rhtml 
+> Missing template script/../config/../app/views/hello_bonzo/index.rhtml
 
 Manca la view.  
 Creo il file:  
@@ -183,10 +185,10 @@ Per usare time inserisco nel metodo index del controller la riga:
 se ricarico la pagina ho:
 
 > Hello Bonzo
-> 
+>
 > oggi è: Sun Sep 02 23:43:01 +0200 2007
-> 
-> Goodbye 
+>
+> Goodbye
 
 Trasformo così il controller aggiungendo il metodo goodbye:  
 `<br />
@@ -218,7 +220,7 @@ Gabba Gabba Hey
 Bonzo
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

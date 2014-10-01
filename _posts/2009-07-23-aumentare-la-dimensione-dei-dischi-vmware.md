@@ -9,6 +9,8 @@ categories:
   - virtualizzazione
 tags:
   - VMware
+comments: true
+share: true
 ---
 A volte capita di dover aumentare le dimensioni di un disco VMware, perché quando lo si è creato si è stati troppo tirchi nel dedicare spazio alla macchina virtuale.  
 VMware server mette a disposizione un comando per ridimensionare i file vmdk
@@ -25,6 +27,5 @@ I metodi possono essere vari, uno su tutti usare un livecd linux con gparted o s
 Fatto ciò avrete disponibile tutto il nuovo spazio.
 
 <div class='kindleWidget kindleLight' >
-  
-</div>
 
+</div>

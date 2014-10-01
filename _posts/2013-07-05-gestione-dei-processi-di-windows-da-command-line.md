@@ -18,6 +18,8 @@ categories:
   - windows
 tags:
   - sysadmin
+comments: true
+share: true
 ---
 <p style="text-align: left;">
   <img class="size-thumbnail wp-image-896 aligncenter" alt="ps" src="http://magni.me/wp-content/uploads/2013/07/ps-150x150.jpg" width="150" height="150" /><br /> Ecco alcuni comandi utili per fermare/gestire i processi su macchine <strong>windows</strong> attraverso la command line, in modo simile a come si fa abitualmente su <em>linux</em>
@@ -41,6 +43,5 @@ taskkill /f /im java*<br />
 L&#8217;opzione /f serve per forzare l&#8217;interruzione del processo.
 
 <div class='kindleWidget kindleLight' >
-  
-</div>
 
+</div>

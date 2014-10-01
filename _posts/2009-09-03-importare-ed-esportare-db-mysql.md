@@ -9,6 +9,8 @@ categories:
   - Development
 tags:
   - SQL
+comments: true
+share: true
 ---
 Per esportare un database Mysql:  
 `mysqldump -u [user] -p  [database] > [database .sql]`
@@ -17,6 +19,5 @@ Per importare un database dal file creato precedentemente:
 `mysql -u [user] -p [database] < [database.sql]`</code>
 
 <div class='kindleWidget kindleLight' >
-  
-</div>
 
+</div>

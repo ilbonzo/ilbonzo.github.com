@@ -9,6 +9,8 @@ categories:
   - linux
   - Microsoft
   - software libero
+comments: true
+share: true
 ---
 <p>Linux infrange brevetti</p>
 <p>In una intervista a Fortune Magazine, uno degli avvocati di Microsoft, Brad Smith, ha dichiarato che i software opensource violano circa 235 brevetti (ma altri sono in fase di valutazione):<a href="http://money.cnn.com/magazines/fortune/fortune_archive/2007/05/28/100033867/index.htm"></p>

@@ -9,6 +9,8 @@ categories:
   - linux
   - open source
   - software libero
+comments: true
+share: true
 ---
 Definiti i prezzi dei prodotti Dell con Ubuntu preinstallato.  
 [theinquirer][1]  
@@ -19,7 +21,7 @@ Gabba Gabba Hey
 Bonzo
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

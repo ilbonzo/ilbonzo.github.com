@@ -9,6 +9,8 @@ categories:
   - linux
   - open source
   - software libero
+comments: true
+share: true
 ---
 Sul mio computer fisso, un vecchio Pentium III da 500 Mhz ho cambiato Distro, e finalmente ho installato [Debian][1] (la distro) per la prima volta.
 
@@ -37,7 +39,7 @@ Gabba Gabba hey
 Bonzo
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

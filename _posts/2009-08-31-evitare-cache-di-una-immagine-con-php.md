@@ -11,6 +11,8 @@ categories:
   - Development
 tags:
   - PHP
+comments: true
+share: true
 ---
 Se volete che una immagine venga ripescata dalla cache in PHP è molto semplice, basta accodare una stringa che varia ogni volta all&#8217;indirizzo dell&#8217;immagine.  
 Il Browser sarà così ingannato e penserà di dover recuperare una nuova immagine.  
@@ -21,6 +23,5 @@ Per esempio si potrebbe usare la funzione time che ritorna il timestamp.
 `
 
 <div class='kindleWidget kindleLight' >
-  
-</div>
 
+</div>

@@ -21,6 +21,8 @@ categories:
   - SQL
 tags:
   - MySQL
+comments: true
+share: true
 ---
 <p style="text-align: center;">
   <a href="http://magni.me/wp-content/uploads/2013/06/mysql_logo.png"><img class="size-medium wp-image-844 aligncenter" alt="mysql_logo" src="http://magni.me/wp-content/uploads/2013/06/mysql_logo-300x155.png" width="300" height="155" /></a>
@@ -38,7 +40,7 @@ Per fare la modifica ci verrà però chiesta l&#8217;attuale password di root, q
 Se ci fossimo dimenticati la password di root precedentemente impostata, la procedura da seguire è invece questa:  
 <!--more-->
 
-  
+
 Prima di tutto dobbiamo fermare il servizio *mysql*.  
 `service mysqld stop`
 
@@ -60,7 +62,7 @@ Ora riavviamo il processo mysql ed avremo la possibilità di accedere con la nuo
 `service mysqld restart`
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

@@ -25,17 +25,19 @@ tags:
   - PHP
   - presentations
   - pugbo
+comments: true
+share: true
 ---
 Ecco le slide del mio speech fatto al [pugBo][1] di gennaio sulle novità introdotte in PHP 5.3/5.4.
 
-  
-  
+
+
 vedi le [slide su github][2]
 
 Le slide sono fatte in HTML5 con il template di [Google][3]
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

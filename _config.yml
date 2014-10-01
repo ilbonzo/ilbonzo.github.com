@@ -10,7 +10,6 @@ url:
 
 # Jekyll configuration
 
-comments: true
 permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: pygments
@@ -36,7 +35,7 @@ owner:
   name: Matteo Magni
   avatar: ilbonzo.jpg
   email: matteo@magni.me
-  disqus-shortname:
+  disqus-shortname: ilbonzo
   twitter: ilbonzo
   facebook: ilbonzo
   github: ilbonzo

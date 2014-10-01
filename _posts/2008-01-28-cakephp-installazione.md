@@ -16,6 +16,8 @@ categories:
 tags:
   - cakePHP
   - PHP
+comments: true
+share: true
 ---
 Visto che conosco e lavoro soprattutto con PHP ma mi affascina molto <a href="http://www.rubyonrails.org/" class="Tips3" title="Framework ruby">Ruby on Rails</a> ho deciso di provare <a href="http://cakephp.org" class="Tips3" title="framework PHP">CakePHP</a>, framework web PHP da molti paragonato al celebre framework scritto in Ruby.
 
@@ -94,19 +96,19 @@ Creo il database cake
 Se vado a http://localhost/cake vedo:
 
 > CakePHP Rapid Development
-> 
+>
 > Your database configuration file is present.
-> 
+>
 > Cake is able to connect to the database.
-> 
+>
 > CakePHP release information is on CakeForge  
 > Read the release notes and get the latest version  
 > Editing this Page
-> 
+>
 > To change the content of this page, create: /app/views/pages/home.thtml.  
 > To change its layout, create: /app/views/layouts/default.thtml.  
 > See the views section of the manual for more info  
-> You can also add some CSS styles for your pages at: app/webroot/css/. 
+> You can also add some CSS styles for your pages at: app/webroot/css/.
 
 Ora sono pronto per scrivere la mia prima applicazione con CakePHP.
 
@@ -114,7 +116,7 @@ Gabba gabba hey
 Bonzo
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

@@ -17,6 +17,8 @@ tags:
   - ajax
   - Javascript
   - PHP
+comments: true
+share: true
 ---
 [Json][1] è un formato di testo indipendente dal linguaggio che usa convenzioni simili a quelle della famiglia dei linguaggi C.
 
@@ -100,7 +102,7 @@ Gabba Gabba Hey
 Bonzo
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

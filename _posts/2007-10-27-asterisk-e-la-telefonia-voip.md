@@ -7,6 +7,8 @@ dsq_thread_id:
   - 1280104326
 categories:
   - Development
+comments: true
+share: true
 ---
 <p><a href='http://www.asterisk.org' title='asterisk'><img src='http://magni.me/wp-content/uploads/2007/10/asterisk_logo1.jpg' alt='asterisk' /></a><br />
 Ultimamente mi sto insteressando al Voice Over IP &#8220;voce veicolata tramite il protocollo Internet&#8221; ed in particolare ad <a href="http://www.asterisk.org/">Asterisk</a>, il centralino VoIP e TDM in grado di gestire le moderne comunicazioni VoIP<br />

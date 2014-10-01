@@ -23,6 +23,8 @@ categories:
 tags:
   - LPI
   - virtual box
+comments: true
+share: true
 ---
 Durante i corsi che tengo su Linux, sia [LPI][1] che non, mi avvalgo molto spesso dell&#8217;utilizzo di macchine virtuali. Ultimamente sto usando principalmente [VirtualBox][2], e spesso mi capita di dover spostare i dischi virtuali per esigenze di spazio.
 
@@ -45,7 +47,7 @@ Il risultato è questo:
 Riprovando ad avviare la macchina l&#8217;errore non verrà più rivelato.
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

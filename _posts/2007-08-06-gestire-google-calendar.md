@@ -14,6 +14,8 @@ categories:
 tags:
   - sunbird
   - thunderbird
+comments: true
+share: true
 ---
 ![Sunbird][1]  
 Ecco una estensione molto utile sia per [thundebird][2] che per [sunbird][3] che permette di gestire il proprio [Google Calendar][4].  
@@ -26,7 +28,7 @@ Gabba Gabba Hey
 Bonzo
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

@@ -18,6 +18,8 @@ categories:
 tags:
   - Python
   - Trac
+comments: true
+share: true
 ---
 [<img src="http://magni.me/wp-content/uploads/2012/07/trac_logo-150x73.png" alt="" title="trac_logo" width="150" height="73" class="aligncenter size-thumbnail wp-image-659" />][1]  
 Recentemente mi sta capitando spesso di dover mettere le mani su <a href="http://trac.edgewall.org/" title="Trac Project Management"  target="_blank">Trac</a>, il gestore di progetti scritto in *Python*.  
@@ -64,7 +66,7 @@ class BonzoPlugin(Component):
         # Without data the trac layout will not appear.
         return 'bonzo.html', data, None
     # ITemplateProvider methods
-    # Used to add the plugin's templates and htdocs 
+    # Used to add the plugin's templates and htdocs
     def get_templates_dirs(self):
         from pkg_resources import resource_filename
         return [resource_filename(__name__, 'templates')]
@@ -85,22 +87,22 @@ Per poter visualizzare la pagina dobbiamo scriver il nostro template che utilizz
       xmlns:py="http://genshi.edgewall.org/"
       xmlns:xi="http://www.w3.org/2001/XInclude">
   &lt;xi:include href="layout.html" />
-  
 
-  
+
+
     <div id="ctxtnav" class="nav">
-  
+
 </div>
 
-    
+
 
 <div id="content" class="helloworld">
   <h1>
     Bonzo
   </h1>
-      
+
 </div>
-  
+
 &lt;/html>
 </pre>
 
@@ -169,7 +171,7 @@ sudo /var/trac-env/python/bin/easy_install dist/TracBonzo-0.1-py2.6.egg</pre>
 Dopo aver riavviato il web server il plugin è disponibile nell&#8217;enviroment e basta attivarlo attraverso l&#8217;admin plugin.
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

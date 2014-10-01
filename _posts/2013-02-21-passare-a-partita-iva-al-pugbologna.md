@@ -25,6 +25,8 @@ tags:
   - Partita IVA
   - presentations
   - pugbo
+comments: true
+share: true
 ---
 [<img class="alignleft size-medium wp-image-761" alt="Perché hai aperto la partita iva" src="http://magni.me/wp-content/uploads/2013/02/piva-hh-300x163.png" width="300" height="163" />][1]Ecco le slide del talk fatto ieri sera al [PugBologna][2] da[ Hoang C. Huynh][3] ([@Aetheros][4]) a cui ho partecipato come caso &#8220;umano&#8221; portando la mia esperienza di quattro anni di partita iva.
 
@@ -35,7 +37,7 @@ tags:
 </div>
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

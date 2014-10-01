@@ -7,6 +7,8 @@ dsq_thread_id:
   - 1465209764
 categories:
   - linux
+comments: true
+share: true
 ---
 Il produttore di pc [Lenovo][1] sul blog aziendale chiede agli utenti quale distribuzione di linux deve mettere sui suoi pc.  
 <http://lenovoblogs.com/insidethebox/?p=98>
@@ -18,7 +20,7 @@ Gabba Gabba hey
 Bonzo
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

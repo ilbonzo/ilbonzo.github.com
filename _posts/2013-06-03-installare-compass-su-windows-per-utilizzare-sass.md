@@ -21,10 +21,12 @@ categories:
 tags:
   - Compass
   - Sass
+comments: true
+share: true
 ---
 [<img src="http://magni.me/wp-content/uploads/2013/06/sass-compass-300x148.png" alt="sass-compass" width="300" height="148" class="alignleft size-medium wp-image-825" />][1]Da poche settimane ho la &#8220;fortuna&#8221; di dover lavorare in ambiente Windows, quindi mi sto scontrando con la configurazione dell&#8217;ambiente di lavoro.  
-  
-  
+
+
 Ecco un piccolo howto per configurare **[Compass][2]** su windows al fine di lavorare con **[Sass][3]**:
 
 1.  Installare Ruby sulla macchina:  
@@ -42,7 +44,7 @@ Copyright (c) 2008-2013 Chris Eppstein<br />
 Released under the MIT License.<br />
 Compass is charityware.<br />
 Please make a tax deductable donation for a worthy cause: http://umdf.org/compass<br />
-` 
+`
 
 *L&#8217;installazione è completa.*
 
@@ -57,7 +59,7 @@ Per avere compass che in background genera i css che vengono modificati lanciare
 C:\Users\magnim>compass watch --config compass-config.rb`
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

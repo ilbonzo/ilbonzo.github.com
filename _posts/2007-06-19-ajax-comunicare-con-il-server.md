@@ -17,6 +17,8 @@ tags:
   - ajax
   - Javascript
   - PHP
+comments: true
+share: true
 ---
 Continuo il mio viaggio nello studio di Ajax.  
 Oggi ho guardato come comunicare con il server, via GET o POST, ottenendo il risultato senza dover ricaricare la pagina dando all&#8217;applicazione un forte effetto web 2.0.
@@ -125,7 +127,7 @@ Gabba Gabba Hey
 Bonzo
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

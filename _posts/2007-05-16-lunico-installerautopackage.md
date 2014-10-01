@@ -7,6 +7,8 @@ dsq_thread_id:
   - 1363459363
 categories:
   - linux
+comments: true
+share: true
 ---
 <p>Uno dei problemi che forse affligge linux (in realtà ne è forse una sua potenzialità) e che sicuramente crea difficoltà ai nuovi utenti, soprattutto se paragonato a windows è l&#8217;installazione di nuovi programmi.<br />
 Su win basta quasi sempre cliccare su avanti e di solito l&#8217;installazione viene portata a termine.<br />

@@ -13,6 +13,8 @@ categories:
   - HTML
 tags:
   - Accessibilità
+comments: true
+share: true
 ---
 <p>Per questo nuovo anno ho deciso di farmi un piccolo regalo:<br />
 <a href='http://accessibile.diodati.org/agc/index.html' title='Accessibilità diodati'><img src='http://magni.me/wp-content/uploads/2008/01/accessibile.thumbnail.gif' alt='Accessibilità diodati' /></a><br />

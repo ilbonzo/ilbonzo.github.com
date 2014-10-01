@@ -7,6 +7,8 @@ dsq_thread_id:
   - 1098323360
 categories:
   - Development
+comments: true
+share: true
 ---
 Tempo fa mi ero iscritto alla [mailing-list di mono][1], ma per mesi non mi era arrivato niente, pensavo che fosse tutto fermo quando un giorno mi è arrivata una Mail da [Massimiliano Mantione][2] che parlava del primo [Mono Day][3] in Italia.  
 ![mono][4]  
@@ -32,7 +34,7 @@ Dopo l&#8217;introduzione di Novell si è lasciato spazio ad alcuni partner di N
 
 [  
 NBfactory:][10]  
-Luca Turco che ha illustrato Ubiware: Soluzione per gli agenti commerciali che operano sul campo, sottolinenado spesso il vantaggio di non dover far scegliere al cliente una determinata piattaforma, tanto scrivendo con MONO l&#8217;applicazione è Cross-Platform. 
+Luca Turco che ha illustrato Ubiware: Soluzione per gli agenti commerciali che operano sul campo, sottolinenado spesso il vantaggio di non dover far scegliere al cliente una determinata piattaforma, tanto scrivendo con MONO l&#8217;applicazione è Cross-Platform.
 
 Infine l&#8217;intervento del Guru italiano di MONO:
 
@@ -48,7 +50,7 @@ Bonzo
 P.S. ho pure imparato che Mono significa scimmia in spagnolo&#8230;.
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

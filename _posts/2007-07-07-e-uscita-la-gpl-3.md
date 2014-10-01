@@ -8,16 +8,18 @@ dsq_thread_id:
 categories:
   - open source
   - software libero
+comments: true
+share: true
 ---
 ![gnu][1]  
 [La FSF][2] ha annunciato l&#8217;uscita della versione 3 della Licenza GPL.  
 Molto discussa e attesa, nei mesi scorsi la nuova versione ha già creato forte scompiglio dividendo il mondo del software libero in due fazioni pro e contro la licenza.
 
-> Linus Torvalds, padre di Linux, ha più volte dichiarato la volontà di continuare a pubblicare il kernel di Linux sotto l&#8217;attuale GPL2. 
+> Linus Torvalds, padre di Linux, ha più volte dichiarato la volontà di continuare a pubblicare il kernel di Linux sotto l&#8217;attuale GPL2.
 
 Ecco il[ testo completo][3] della GPL v 3.0.
 
-> Come già saprete, le differenze principali con la precedente versione sono rappresentate dalle nuove clausole che riguardano la prevenzione di futuri accordi cross-licensing ( come quello Microsoft &#8211; Novell ), la lotta alla cosiddetta tivoization / tivoizzazione ( cioè l&#8217;utilizzo di hardware per limitare la possibilità di modificare dei sorgenti ), la compatibilità con la licenza Apache, l&#8217;integrazione della LGPL ( che ora è un caso speciale della GPL ) e la possibilità, da parte dell&#8217;autore, di aggiungere restrizioni ulteriori aggiungere ulteriori clausole legali relative all&#8217;utilizzo alla distribuzione del suo software ( punto 7 della licenza ). 
+> Come già saprete, le differenze principali con la precedente versione sono rappresentate dalle nuove clausole che riguardano la prevenzione di futuri accordi cross-licensing ( come quello Microsoft &#8211; Novell ), la lotta alla cosiddetta tivoization / tivoizzazione ( cioè l&#8217;utilizzo di hardware per limitare la possibilità di modificare dei sorgenti ), la compatibilità con la licenza Apache, l&#8217;integrazione della LGPL ( che ora è un caso speciale della GPL ) e la possibilità, da parte dell&#8217;autore, di aggiungere restrizioni ulteriori aggiungere ulteriori clausole legali relative all&#8217;utilizzo alla distribuzione del suo software ( punto 7 della licenza ).
 
 [Ossblog][4]
 
@@ -28,7 +30,7 @@ Gabba Gabba Hey
 Bonzo
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

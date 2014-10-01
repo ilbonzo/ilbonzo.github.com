@@ -8,6 +8,8 @@ dsq_thread_id:
 categories:
   - linux
   - SQL
+comments: true
+share: true
 ---
 <p>Oggi ho dovuto aggiornare Mysql dalla versione 4 alla 5 e mysqlcheck mi diceva che le tabelle erano da aggiornare.</p>
 <p>Ecco come risolvere il problema:</p>

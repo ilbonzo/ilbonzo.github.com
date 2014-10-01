@@ -11,6 +11,8 @@ categories:
   - Development
 tags:
   - Javascript
+comments: true
+share: true
 ---
 Purtroppo su IE ogni volta che inviamo un form le gif animate vengono fermate.
 
@@ -50,6 +52,5 @@ function gif()<br />
 Così la gif bloccata ripartirà a eseguire la sua animazione.
 
 <div class='kindleWidget kindleLight' >
-  
-</div>
 
+</div>

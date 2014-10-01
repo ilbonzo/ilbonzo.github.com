@@ -21,6 +21,8 @@ tags:
   - presentations
   - pugbo
   - Zend Framework
+comments: true
+share: true
 ---
 Ecco le slide del mio speech su Zend Framework all&#8217;incontro di maggio del PugBologna.
 
@@ -37,7 +39,7 @@ Il codice del progetto è disponibile su <a href="https://github.com/ilbonzo/Wad
 [<img src="http://magni.me/wp-content/uploads/2012/05/AuK6GeqCIAAoUF5-300x225.jpg" alt="" title="ilbonzo @pugBologna" width="300" height="225" class="aligncenter size-medium wp-image-611" />][1]
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 

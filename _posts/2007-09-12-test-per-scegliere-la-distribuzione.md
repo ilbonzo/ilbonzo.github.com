@@ -5,6 +5,8 @@ layout: post
 permalink: /2007/09/12/test-per-scegliere-la-distribuzione/
 categories:
   - linux
+comments: true
+share: true
 ---
 ![Linux][1]  
 Ecco un test molto semplice per aiutare chi deve scegliere quale distribuzione di Linux usare.
@@ -30,7 +32,7 @@ Gabba Gabba hey
 Bonzo
 
 <div class='kindleWidget kindleLight' >
-  
+
 </div>
 
 
