@@ -1,6 +1,6 @@
 ---
 title: Auguri WWW
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2009/03/13/auguri-www/
 dsq_thread_id:

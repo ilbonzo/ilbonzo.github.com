@@ -1,6 +1,6 @@
 ---
 title: Primo programma con Ruby on Rails
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/09/02/primo-programma-con-ruby-on-rails/
 dsq_thread_id:

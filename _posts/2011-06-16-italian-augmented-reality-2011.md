@@ -1,6 +1,6 @@
 ---
 title: Italian Augmented Reality 2011
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2011/06/16/italian-augmented-reality-2011/
 Hide SexyBookmarks:

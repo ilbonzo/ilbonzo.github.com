@@ -1,6 +1,6 @@
 ---
 title: Buon compleanno Commodore64
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2012/01/10/buon-compleanno-commodore64/
 Hide SexyBookmarks:

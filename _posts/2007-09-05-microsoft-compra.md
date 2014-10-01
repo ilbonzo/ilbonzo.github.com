@@ -1,6 +1,6 @@
 ---
 title: 'Microsoft &#8220;compra&#8221;&#8230;'
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/09/05/microsoft-compra/
 dsq_thread_id:

@@ -1,6 +1,6 @@
 ---
 title: Gestione dei processi di Windows da command line
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2013/07/05/gestione-dei-processi-di-windows-da-command-line/
 thesis_title:

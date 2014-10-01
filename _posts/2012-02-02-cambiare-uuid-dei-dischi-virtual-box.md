@@ -1,6 +1,6 @@
 ---
 title: Cambiare UUID dei dischi Virtual Box
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2012/02/02/cambiare-uuid-dei-dischi-virtual-box/
 Hide OgTags:

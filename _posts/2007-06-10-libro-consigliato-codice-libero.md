@@ -1,6 +1,6 @@
 ---
 title: 'Libro consigliato: Codice Libero'
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/06/10/libro-consigliato-codice-libero/
 Hide OgTags:

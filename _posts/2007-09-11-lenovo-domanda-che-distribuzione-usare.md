@@ -1,6 +1,6 @@
 ---
 title: Lenovo domanda che distribuzione usare
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/09/11/lenovo-domanda-che-distribuzione-usare/
 dsq_thread_id:

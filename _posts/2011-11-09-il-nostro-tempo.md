@@ -1,6 +1,6 @@
 ---
 title: Il nostro tempo
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2011/11/09/il-nostro-tempo/
 thesis_thumb:

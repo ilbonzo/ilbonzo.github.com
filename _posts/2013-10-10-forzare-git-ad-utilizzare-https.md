@@ -1,6 +1,6 @@
 ---
 title: Forzare git ad utilizzare https
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2013/10/10/forzare-git-ad-utilizzare-https/
 thesis_title:

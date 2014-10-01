@@ -1,6 +1,6 @@
 ---
 title: Aggiornare mysql dalla versione 4 alla 5
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/09/26/aggiornare-mysql-dalla-versione-4-alla-5/
 dsq_thread_id:

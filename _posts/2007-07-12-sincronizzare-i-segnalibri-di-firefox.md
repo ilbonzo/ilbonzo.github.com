@@ -1,6 +1,6 @@
 ---
 title: Sincronizzare i segnalibri di firefox
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/07/12/sincronizzare-i-segnalibri-di-firefox/
 Hide SexyBookmarks:

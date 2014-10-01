@@ -1,6 +1,6 @@
 ---
 title: Thor, Darth Vader e non solo
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2011/04/26/thor-darth-vader-e-non-solo/
 Hide OgTags:

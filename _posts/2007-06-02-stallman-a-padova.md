@@ -1,6 +1,6 @@
 ---
 title: Stallman a Padova
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/06/02/stallman-a-padova/
 dsq_thread_id:

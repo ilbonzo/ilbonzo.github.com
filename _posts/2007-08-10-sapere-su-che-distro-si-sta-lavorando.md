@@ -1,6 +1,6 @@
 ---
 title: Sapere su che distro si sta lavorando
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/08/10/sapere-su-che-distro-si-sta-lavorando/
 categories:

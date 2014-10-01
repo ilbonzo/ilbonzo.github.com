@@ -1,6 +1,6 @@
 ---
 title: Certificazione Linux LPIC-1 junior admin
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2010/09/28/certificazione-linux-lpic-1-junior-admin/
 dsq_thread_id:

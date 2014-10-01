@@ -1,6 +1,6 @@
 ---
 title: Controllo processi Linux
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/09/06/controllo-processi-linux/
 dsq_thread_id:

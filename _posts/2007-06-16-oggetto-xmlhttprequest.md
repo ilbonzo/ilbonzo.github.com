@@ -1,6 +1,6 @@
 ---
 title: Oggetto XMLHttpRequest
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/06/16/oggetto-xmlhttprequest/
 Hide SexyBookmarks:

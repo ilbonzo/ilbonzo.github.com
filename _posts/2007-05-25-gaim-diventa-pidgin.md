@@ -1,6 +1,6 @@
 ---
 title: Gaim diventa pidgin
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/05/25/gaim-diventa-pidgin/
 categories:

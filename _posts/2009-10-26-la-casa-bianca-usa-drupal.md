@@ -1,6 +1,6 @@
 ---
 title: La casa Bianca usa Drupal
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2009/10/26/la-casa-bianca-usa-drupal/
 Hide SexyBookmarks:

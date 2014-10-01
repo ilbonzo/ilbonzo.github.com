@@ -1,6 +1,6 @@
 ---
 title: Multiple Ie
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/07/31/multiple-ie/
 Hide SexyBookmarks:

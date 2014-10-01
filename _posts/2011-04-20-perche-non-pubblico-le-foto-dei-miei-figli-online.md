@@ -1,6 +1,6 @@
 ---
 title: Perché non pubblico le foto dei miei figli online
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2011/04/20/perche-non-pubblico-le-foto-dei-miei-figli-online/
 Hide SexyBookmarks:

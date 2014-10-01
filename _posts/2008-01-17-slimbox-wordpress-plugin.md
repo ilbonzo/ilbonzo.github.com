@@ -1,6 +1,6 @@
 ---
 title: Slimbox wordpress plugin
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2008/01/17/slimbox-wordpress-plugin/
 Hide SexyBookmarks:

@@ -1,6 +1,6 @@
 ---
 title: Se usi linux perdi la garanzia
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/06/06/se-usi-linux-perdi-la-garanzia/
 dsq_thread_id:

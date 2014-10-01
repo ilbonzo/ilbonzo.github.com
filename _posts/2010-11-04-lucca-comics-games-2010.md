@@ -1,6 +1,6 @@
 ---
 title: 'Lucca Comics &#038; Games 2010'
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2010/11/04/lucca-comics-games-2010/
 Hide SexyBookmarks:

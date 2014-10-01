@@ -1,6 +1,6 @@
 ---
 title: Bug di IE con le gif animate
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2009/09/01/ie-e-gif-animate/
 dsq_thread_id:

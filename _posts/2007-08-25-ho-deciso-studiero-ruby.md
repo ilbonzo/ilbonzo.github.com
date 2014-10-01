@@ -1,6 +1,6 @@
 ---
 title: Ho deciso, Studierò Ruby
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/08/25/ho-deciso-studiero-ruby/
 dsq_thread_id:

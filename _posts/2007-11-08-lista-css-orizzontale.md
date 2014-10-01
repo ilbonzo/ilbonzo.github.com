@@ -1,6 +1,6 @@
 ---
 title: Menu orizzontale con i css
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/11/08/lista-css-orizzontale/
 dsq_thread_id:

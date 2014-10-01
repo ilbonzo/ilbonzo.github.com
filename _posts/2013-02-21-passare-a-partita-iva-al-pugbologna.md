@@ -1,6 +1,6 @@
 ---
 title: Passare a Partita IVA, al @pugBologna
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2013/02/21/passare-a-partita-iva-al-pugbologna/
 Hide SexyBookmarks:

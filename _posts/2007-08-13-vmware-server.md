@@ -1,6 +1,6 @@
 ---
 title: VMWare server
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/08/13/vmware-server/
 dsq_thread_id:

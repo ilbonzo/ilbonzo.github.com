@@ -1,6 +1,6 @@
 ---
 title: È uscita la GPL 3
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/07/07/e-uscita-la-gpl-3/
 dsq_thread_id:

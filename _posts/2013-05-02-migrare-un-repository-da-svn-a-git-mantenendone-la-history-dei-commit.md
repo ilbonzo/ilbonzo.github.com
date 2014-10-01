@@ -1,6 +1,6 @@
 ---
 title: Migrare un repository da Svn a Git mantenendone la history dei commit
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2013/05/02/migrare-un-repository-da-svn-a-git-mantenendone-la-history-dei-commit/
 pdrp_attributionLocation:

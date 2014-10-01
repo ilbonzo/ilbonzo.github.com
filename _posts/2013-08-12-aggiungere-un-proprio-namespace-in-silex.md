@@ -1,6 +1,6 @@
 ---
 title: Aggiungere un proprio namespace in Silex
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2013/08/12/aggiungere-un-proprio-namespace-in-silex/
 pdrp_attributionLocation:

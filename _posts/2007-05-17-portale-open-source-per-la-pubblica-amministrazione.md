@@ -1,6 +1,6 @@
 ---
 title: Portale Open source per la pubblica amministrazione
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/05/17/portale-open-source-per-la-pubblica-amministrazione/
 dsq_thread_id:

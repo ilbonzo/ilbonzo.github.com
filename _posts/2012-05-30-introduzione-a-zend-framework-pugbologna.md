@@ -1,6 +1,6 @@
 ---
 title: Introduzione a Zend Framework @pugBologna
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2012/05/30/introduzione-a-zend-framework-pugbologna/
 Hide SexyBookmarks:

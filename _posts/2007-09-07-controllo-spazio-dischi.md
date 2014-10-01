@@ -1,6 +1,6 @@
 ---
 title: Controllo spazio dischi
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/09/07/controllo-spazio-dischi/
 dsq_thread_id:

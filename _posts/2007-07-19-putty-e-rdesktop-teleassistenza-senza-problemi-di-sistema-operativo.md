@@ -1,6 +1,6 @@
 ---
 title: Putty e Rdesktop, teleassistenza senza problemi di sistema operativo
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/07/19/putty-e-rdesktop-teleassistenza-senza-problemi-di-sistema-operativo/
 dsq_thread_id:

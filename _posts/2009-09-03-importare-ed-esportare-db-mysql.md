@@ -1,6 +1,6 @@
 ---
 title: Importare ed esportare db MySQL
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2009/09/03/importare-ed-esportare-db-mysql/
 dsq_thread_id:

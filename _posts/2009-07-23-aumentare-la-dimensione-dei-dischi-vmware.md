@@ -1,6 +1,6 @@
 ---
 title: Aumentare la dimensione dei dischi VMware
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2009/07/23/aumentare-la-dimensione-dei-dischi-vmware/
 dsq_thread_id:

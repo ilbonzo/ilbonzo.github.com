@@ -1,6 +1,6 @@
 ---
 title: Aggiungi a preferiti
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2009/05/18/aggiungi-a-preferiti/
 categories:

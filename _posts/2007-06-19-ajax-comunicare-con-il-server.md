@@ -1,6 +1,6 @@
 ---
 title: Ajax, comunicare con il server
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/06/19/ajax-comunicare-con-il-server/
 Hide SexyBookmarks:

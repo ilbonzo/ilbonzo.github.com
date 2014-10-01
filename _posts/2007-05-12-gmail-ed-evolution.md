@@ -1,6 +1,6 @@
 ---
 title: Gmail ed Evolution
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/05/12/gmail-ed-evolution/
 dsq_thread_id:

@@ -1,6 +1,6 @@
 ---
 title: Linux su windows
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2008/03/19/linux-su-windows/
 Hide SexyBookmarks:

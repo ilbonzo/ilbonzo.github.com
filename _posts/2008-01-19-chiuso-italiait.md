@@ -1,6 +1,6 @@
 ---
 title: Chiuso Italia.it
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2008/01/19/chiuso-italiait/
 dsq_thread_id:

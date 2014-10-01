@@ -1,6 +1,6 @@
 ---
 title: PHP User Group Bologna
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2011/09/17/php-user-group-bologna/
 Hide SexyBookmarks:

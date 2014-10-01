@@ -1,6 +1,6 @@
 ---
 title: Da Access a MySQL
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/11/03/da-access-a-mysql/
 dsq_thread_id:

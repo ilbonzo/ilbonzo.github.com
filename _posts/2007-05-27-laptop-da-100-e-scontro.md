@@ -1,6 +1,6 @@
 ---
 title: Laptop da 100$, è scontro
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/05/27/laptop-da-100-e-scontro/
 dsq_thread_id:

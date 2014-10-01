@@ -1,6 +1,6 @@
 ---
 title: CakePHP, installazione
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2008/01/28/cakephp-installazione/
 Hide SexyBookmarks:

@@ -1,6 +1,6 @@
 ---
 title: Creative Commons per il blog
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/06/18/creative-commons-per-il-blog/
 Hide SexyBookmarks:

@@ -1,6 +1,6 @@
 ---
 title: Plugin Shadowbox per WordPress versione 0.2
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2008/05/02/plugin-shadowbox-per-wordpress-versione-02/
 Hide SexyBookmarks:

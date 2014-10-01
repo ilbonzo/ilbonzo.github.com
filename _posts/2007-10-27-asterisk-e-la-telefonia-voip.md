@@ -1,6 +1,6 @@
 ---
 title: Asterisk e la telefonia VoIP
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/10/27/asterisk-e-la-telefonia-voip/
 dsq_thread_id:

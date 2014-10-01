@@ -1,6 +1,6 @@
 ---
 title: Joomla 1.5, finalmente
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2008/01/23/joomla-15-finalmente/
 Hide SexyBookmarks:

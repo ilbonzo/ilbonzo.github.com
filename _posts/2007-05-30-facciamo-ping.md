@@ -1,6 +1,6 @@
 ---
 title: Facciamo Ping
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/05/30/facciamo-ping/
 dsq_thread_id:

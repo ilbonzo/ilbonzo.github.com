@@ -1,6 +1,6 @@
 ---
 title: smbmount su ubuntu
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2009/08/26/smbmount-su-ubuntu/
 dsq_thread_id:

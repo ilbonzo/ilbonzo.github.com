@@ -1,6 +1,6 @@
 ---
 title: Lightbox plugin
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/05/16/lightbox-plugin/
 Hide SexyBookmarks:

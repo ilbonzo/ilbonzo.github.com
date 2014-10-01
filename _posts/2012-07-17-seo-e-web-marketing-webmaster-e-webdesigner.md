@@ -1,6 +1,6 @@
 ---
 title: 'SEO e Web Marketing &#8211; WebMaster e WebDesigner'
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2012/07/17/seo-e-web-marketing-webmaster-e-webdesigner/
 Hide SexyBookmarks:

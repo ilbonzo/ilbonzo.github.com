@@ -1,6 +1,6 @@
 ---
 title: Scrivere Modulo Drupal
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2009/06/01/scrivere-modulo-drupal/
 Hide SexyBookmarks:

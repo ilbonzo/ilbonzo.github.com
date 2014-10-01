@@ -1,6 +1,6 @@
 ---
 title: 'Cos&#8217;è Drupal in 57 secondi'
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2009/12/09/cose-drupal-in-57-secondi/
 Hide SexyBookmarks:

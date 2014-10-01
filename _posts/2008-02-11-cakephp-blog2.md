@@ -1,6 +1,6 @@
 ---
 title: 'CakePHP, Blog[2]'
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2008/02/11/cakephp-blog2/
 Hide SexyBookmarks:

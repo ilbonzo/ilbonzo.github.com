@@ -1,6 +1,6 @@
 ---
 title: Gmail finalmente Imap
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/12/04/gmail-finalmente-imap/
 categories:

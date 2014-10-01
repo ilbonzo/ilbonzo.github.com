@@ -1,6 +1,6 @@
 ---
 title: Google Music prova ed inviti
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2011/08/09/google-music-prova-ed-inviti/
 Hide OgTags:

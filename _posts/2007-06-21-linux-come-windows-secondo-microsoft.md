@@ -1,6 +1,6 @@
 ---
 title: 'Linux come Windows secondo Microsoft&#8230;.'
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/06/21/linux-come-windows-secondo-microsoft/
 dsq_thread_id:

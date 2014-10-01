@@ -1,6 +1,6 @@
 ---
 title: Plugin shadowbox per wordpress
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2008/01/31/plugin-shadowbox-per-wordpress/
 enclosure:

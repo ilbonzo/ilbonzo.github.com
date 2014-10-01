@@ -1,6 +1,6 @@
 ---
 title: PHP 5.3/5.4 features @pugBologna
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2013/02/18/php-53-54-features-pugbologna/
 Hide SexyBookmarks:

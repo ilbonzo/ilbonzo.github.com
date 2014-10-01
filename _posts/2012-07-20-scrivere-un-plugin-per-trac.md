@@ -1,6 +1,6 @@
 ---
 title: Scrivere un plugin per Trac
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2012/07/20/scrivere-un-plugin-per-trac/
 Hide SexyBookmarks:

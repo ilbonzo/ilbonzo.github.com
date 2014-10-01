@@ -1,6 +1,6 @@
 ---
 title: Lavorare con Grunt e Sass
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2014/04/29/lavorare-con-grunt-e-sass/
 pdrp_attributionLocation:

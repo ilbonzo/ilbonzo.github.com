@@ -1,6 +1,6 @@
 ---
 title: Odf o OpenXML
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/08/16/odf-o-openxml/
 dsq_thread_id:

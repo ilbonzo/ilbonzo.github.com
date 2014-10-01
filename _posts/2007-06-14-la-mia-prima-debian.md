@@ -1,6 +1,6 @@
 ---
 title: La mia prima Debian
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/06/14/la-mia-prima-debian/
 dsq_thread_id:

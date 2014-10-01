@@ -1,6 +1,6 @@
 ---
 title: 'Ecco la mia nuova Mandriva&#8230;.'
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/05/11/ecco-la-mia-nuova-mandriva/
 categories:

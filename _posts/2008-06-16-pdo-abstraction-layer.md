@@ -1,6 +1,6 @@
 ---
 title: PDO, Abstraction Layer
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2008/06/16/pdo-abstraction-layer/
 Hide SexyBookmarks:

@@ -1,6 +1,6 @@
 ---
 title: Java su Mandriva
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/09/20/java-su-mandriva/
 dsq_thread_id:

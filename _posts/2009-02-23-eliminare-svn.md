@@ -1,6 +1,6 @@
 ---
 title: Eliminare .svn
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2009/02/23/eliminare-svn/
 Hide OgTags:

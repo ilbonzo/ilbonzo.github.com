@@ -1,6 +1,6 @@
 ---
 title: Libera il Software
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/06/13/libera-il-software/
 dsq_thread_id:

@@ -1,6 +1,6 @@
 ---
 title: Domande utili per un geek in vacanza
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2011/07/10/domande-utili-per-un-geek-in-vacanza/
 thesis_thumb:

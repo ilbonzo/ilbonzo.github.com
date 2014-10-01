@@ -1,6 +1,6 @@
 ---
 title: Evitare Cache di una immagine con PHP
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2009/08/31/evitare-cache-di-una-immagine-con-php/
 pdrp_attributionLocation:

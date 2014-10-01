@@ -1,6 +1,6 @@
 ---
 title: Aggiornare il fork di un repository github dal repository originale
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2013/08/09/aggiornare-il-fork-di-un-repository-github-dal-repository-originale/
 thesis_title:

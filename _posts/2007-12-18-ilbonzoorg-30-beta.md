@@ -1,6 +1,6 @@
 ---
 title: ilbonzo.org 3.0 beta
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/12/18/ilbonzoorg-30-beta/
 dsq_thread_id:

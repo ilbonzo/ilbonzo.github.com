@@ -1,6 +1,6 @@
 ---
 title: File manager uguale in ogni sistema operativo?!?!?
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/09/06/file-manager-uguale-in-ogni-sistema-operativo/
 Hide SexyBookmarks:

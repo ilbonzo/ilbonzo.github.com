@@ -1,6 +1,6 @@
 ---
 title: Accessibilità secondo Michele Diodati
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2008/01/07/accessibilita-secondo-michele-diodati/
 dsq_thread_id:

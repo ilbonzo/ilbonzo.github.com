@@ -1,6 +1,6 @@
 ---
 title: Javascript – WebMaster e WebDesigner
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2012/10/23/javascript-webmaster-e-webdesigner/
 Hide SexyBookmarks:

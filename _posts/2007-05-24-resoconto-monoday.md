@@ -1,6 +1,6 @@
 ---
 title: Resoconto MONOday
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/05/24/resoconto-monoday/
 dsq_thread_id:

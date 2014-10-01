@@ -1,6 +1,6 @@
 ---
 title: Json e Ajax accoppiata vincente
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/07/17/json-e-ajax-accoppiata-vincente/
 Hide SexyBookmarks:

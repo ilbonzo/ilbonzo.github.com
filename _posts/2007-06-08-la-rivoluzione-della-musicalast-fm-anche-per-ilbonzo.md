@@ -1,6 +1,6 @@
 ---
 title: La rivoluzione della musica,Last fm anche per ilbonzo
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/06/08/la-rivoluzione-della-musicalast-fm-anche-per-ilbonzo/
 dsq_thread_id:

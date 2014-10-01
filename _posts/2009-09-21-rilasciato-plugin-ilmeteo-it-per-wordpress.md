@@ -1,6 +1,6 @@
 ---
 title: Rilasciato plugin ilmeteo.it per wordpress
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2009/09/21/rilasciato-plugin-ilmeteo-it-per-wordpress/
 Hide SexyBookmarks:

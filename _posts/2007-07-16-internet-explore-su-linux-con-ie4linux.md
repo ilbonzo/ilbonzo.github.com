@@ -1,6 +1,6 @@
 ---
 title: Internet Explorer su Linux con ie4linux
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/07/16/internet-explore-su-linux-con-ie4linux/
 dsq_thread_id:

@@ -1,6 +1,6 @@
 ---
 title: Modulo Drupal per nuovo tipo di contenuto
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2009/06/25/modulo-drupal-per-nuovo-tipo-di-contenuto/
 Hide SexyBookmarks:

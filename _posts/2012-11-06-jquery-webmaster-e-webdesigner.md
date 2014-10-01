@@ -1,6 +1,6 @@
 ---
 title: jQuery – WebMaster e WebDesigner
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2012/11/06/jquery-webmaster-e-webdesigner/
 Hide OgTags:

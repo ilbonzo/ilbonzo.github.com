@@ -1,6 +1,6 @@
 ---
 title: Prossima fermata Italia
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2010/11/08/prossima-fermata-italia/
 dsq_thread_id:

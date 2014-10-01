@@ -1,6 +1,6 @@
 ---
 title: Incontro Movimento Cittadini Mura Pulce
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2011/03/27/incontro-movimento-cittadini-mura-pulce/
 dsq_thread_id:

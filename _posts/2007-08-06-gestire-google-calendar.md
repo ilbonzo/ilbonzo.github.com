@@ -1,6 +1,6 @@
 ---
 title: Gestire Google Calendar
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/08/06/gestire-google-calendar/
 Hide SexyBookmarks:

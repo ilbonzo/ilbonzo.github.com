@@ -1,6 +1,6 @@
 ---
 title: Nerooogle, google per il risparmio energetico
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/11/14/nerooogle-google-per-il-risparmio-energetico/
 dsq_thread_id:

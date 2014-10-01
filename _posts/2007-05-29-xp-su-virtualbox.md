@@ -1,6 +1,6 @@
 ---
 title: Xp su VirtualBox
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/05/29/xp-su-virtualbox/
 dsq_thread_id:

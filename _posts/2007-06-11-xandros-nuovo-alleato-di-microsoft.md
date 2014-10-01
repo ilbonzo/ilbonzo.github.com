@@ -1,6 +1,6 @@
 ---
 title: XandrOS nuovo alleato di Microsoft
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/06/11/xandros-nuovo-alleato-di-microsoft/
 dsq_thread_id:

@@ -1,6 +1,6 @@
 ---
 title: La Corte Ue conferma la supermulta a Microsoft
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/09/17/confermata-sentenza-contro-microsoft/
 dsq_thread_id:

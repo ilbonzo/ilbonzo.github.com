@@ -1,6 +1,6 @@
 ---
 title: Finalmente entro nella famiglia Android
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2011/09/08/finalmente-entro-nella-famiglia-android/
 thesis_thumb:

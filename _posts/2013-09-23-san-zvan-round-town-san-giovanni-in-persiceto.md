@@ -1,6 +1,6 @@
 ---
 title: 'San Zvan &#8211; Round Town | San Giovanni in Persiceto'
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2013/09/23/san-zvan-round-town-san-giovanni-in-persiceto/
 pdrp_attributionLocation:

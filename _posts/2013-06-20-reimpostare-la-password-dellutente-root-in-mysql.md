@@ -1,6 +1,6 @@
 ---
 title: Reimpostare la password di root in Mysql
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2013/06/20/reimpostare-la-password-dellutente-root-in-mysql/
 thesis_title:

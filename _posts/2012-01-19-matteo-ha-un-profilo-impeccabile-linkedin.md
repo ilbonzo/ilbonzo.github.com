@@ -1,6 +1,6 @@
 ---
 title: 'Matteo ha un profilo Impeccabile &#8211; Linkedin'
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2012/01/19/matteo-ha-un-profilo-impeccabile-linkedin/
 Hide SexyBookmarks:

@@ -1,6 +1,6 @@
 ---
 title: 'Microsoft:&#8221;Linux infrange 235 brevetti&#8221;'
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/05/16/microsoftlinux-infrange-235-brevetti/
 dsq_thread_id:

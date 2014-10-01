@@ -1,6 +1,6 @@
 ---
 title: Linux su Dell
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/05/25/linux-su-dell/
 dsq_thread_id:

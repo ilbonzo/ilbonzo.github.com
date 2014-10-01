@@ -1,6 +1,6 @@
 ---
 title: Resoconto PyCon Uno
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/06/12/resoconto-pycon-uno/
 dsq_thread_id:

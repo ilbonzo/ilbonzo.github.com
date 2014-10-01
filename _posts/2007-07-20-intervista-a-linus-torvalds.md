@@ -1,6 +1,6 @@
 ---
 title: Intervista a Linus Torvalds
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/07/20/intervista-a-linus-torvalds/
 dsq_thread_id:

@@ -1,6 +1,6 @@
 ---
 title: Installare Compass su Windows per utilizzare Sass
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2013/06/03/installare-compass-su-windows-per-utilizzare-sass/
 thesis_title:

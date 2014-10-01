@@ -1,6 +1,6 @@
 ---
 title: Creare dvd con gallerie di immagini e non solo
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/09/21/creare-dvd-con-gallerie-di-immagini-e-non-solo/
 dsq_thread_id:

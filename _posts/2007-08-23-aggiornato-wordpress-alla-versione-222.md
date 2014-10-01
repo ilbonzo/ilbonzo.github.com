@@ -1,6 +1,6 @@
 ---
 title: Aggiornato WordPress alla versione 2.2.2
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/08/23/aggiornato-wordpress-alla-versione-222/
 Hide SexyBookmarks:

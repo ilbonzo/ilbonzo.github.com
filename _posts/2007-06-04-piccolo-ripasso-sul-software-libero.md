@@ -1,6 +1,6 @@
 ---
 title: Piccolo ripasso sul Software libero
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/06/04/piccolo-ripasso-sul-software-libero/
 categories:

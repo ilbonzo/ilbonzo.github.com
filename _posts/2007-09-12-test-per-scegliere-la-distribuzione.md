@@ -1,6 +1,6 @@
 ---
 title: Test per scegliere la distribuzione
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/09/12/test-per-scegliere-la-distribuzione/
 categories:

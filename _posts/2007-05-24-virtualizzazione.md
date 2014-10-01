@@ -1,6 +1,6 @@
 ---
 title: Virtualizzazione
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/05/24/virtualizzazione/
 dsq_thread_id:

@@ -1,6 +1,6 @@
 ---
 title: 'L&#8217;installer unico:Autopackage'
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2007/05/16/lunico-installerautopackage/
 dsq_thread_id:

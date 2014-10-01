@@ -1,6 +1,6 @@
 ---
 title: Finalmente si stampa
-author: Matteo Magni
+author: ilbonzo
 layout: post
 permalink: /2009/06/16/finalmente-si-stampa/
 dsq_thread_id:

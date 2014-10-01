@@ -10,6 +10,7 @@ url:
 
 # Jekyll configuration
 
+comments: true
 permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: pygments
@@ -46,7 +47,7 @@ owner:
   tumblr: http://matteomagni.info
   google:
     plus: MatteoMagni
-    analytics:
+    analytics: UA-6665886-1
     verify:
     ad-client:
     ad-slot:
