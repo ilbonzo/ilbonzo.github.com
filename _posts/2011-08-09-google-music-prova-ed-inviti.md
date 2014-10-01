@@ -31,10 +31,10 @@ Ho ancora **tre inviti** disponibili, se qualcuno fosse interessato si faccia av
 Gabba Gabba Hey!!!
 
 <div class='kindleWidget kindleLight' >
-  <img src="http://magni.me/wp-content/plugins/send-to-kindle/media/white-15.png" /><span>Send to Kindle</span>
+  
 </div>
 
-<a rel="author" href="https://plus.google.com/111433366670841346629?rel=author"  >Google+</a>
+
 
  [1]: http://www.flickr.com/photos/ilbonzo/6025051484/ "HJF2010 4 di Matteo 'bonzo' Magni, su Flickr"
  [2]: http://www.lastfm.it/user/ilbonzo_org

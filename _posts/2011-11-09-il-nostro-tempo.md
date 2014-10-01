@@ -25,10 +25,10 @@ Purtroppo non ho potuto partecipare, quindi mi sono guardato un po&#8217; di vid
 [Debora Serracchiani &#8211; Il nostro tempo][4] from [Prossimaitalia][2] on [Vimeo][3].
 
 <div class='kindleWidget kindleLight' >
-  <img src="http://magni.me/wp-content/plugins/send-to-kindle/media/white-15.png" /><span>Send to Kindle</span>
+  
 </div>
 
-<a rel="author" href="https://plus.google.com/111433366670841346629?rel=author"  >Google+</a>
+
 
  [1]: http://vimeo.com/30991934
  [2]: http://vimeo.com/user9007264

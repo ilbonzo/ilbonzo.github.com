@@ -96,10 +96,10 @@ Con questi file dentro la cartella nodelist e caricata nella cartella modules vi
 Abilitandolo avrete il nuovo blocco a disposizione.
 
 <div class='kindleWidget kindleLight' >
-  <img src="http://magni.me/wp-content/plugins/send-to-kindle/media/white-15.png" /><span>Send to Kindle</span>
+  
 </div>
 
-<a rel="author" href="https://plus.google.com/111433366670841346629?rel=author"  >Google+</a>
+
 
  [1]: http://drupal.org
  [2]: http://api.drupal.org/api/group/hooks

@@ -23,4 +23,3 @@ tags:
 <a href='http://blog.ilbonzo.org/upload/ajax/provarequest.html' title='provarequest.html'>provarequest.html</a><br />
 <a href='http://magni.me/wp-content/uploads/2007/06/th_01.png' title='xmlhttprequest_1'><img src='http://magni.me/wp-content/uploads/2007/06/th_01.miniatura.png' alt='xmlhttprequest_1' /></a></p>
 <p>C&#8217;è una form con un solo bottone su quale faccio click per far partire la richiesta di</p>
-<div class='kindleWidget kindleLight' ><img src="http://magni.me/wp-content/plugins/send-to-kindle/media/white-15.png" /><span>Send to Kindle</span></div><a rel="author" href="https://plus.google.com/111433366670841346629?rel=author"  >Google+</a>

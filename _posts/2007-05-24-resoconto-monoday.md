@@ -48,10 +48,10 @@ Bonzo
 P.S. ho pure imparato che Mono significa scimmia in spagnolo&#8230;.
 
 <div class='kindleWidget kindleLight' >
-  <img src="http://magni.me/wp-content/plugins/send-to-kindle/media/white-15.png" /><span>Send to Kindle</span>
+  
 </div>
 
-<a rel="author" href="https://plus.google.com/111433366670841346629?rel=author"  >Google+</a>
+
 
  [1]: http://www.freelists.org/webpage/mono-it
  [2]: http://primates.ximian.com/~massi/blog/

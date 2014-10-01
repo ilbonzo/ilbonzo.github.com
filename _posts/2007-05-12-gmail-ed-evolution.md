@@ -49,10 +49,10 @@ Mettendo l&#8217;username del vostro account gmail.
 Spero che a qualcuno possa essere utile, su gmail evolution non è considerato, però è comunque un client molto usato.
 
 <div class='kindleWidget kindleLight' >
-  <img src="http://magni.me/wp-content/plugins/send-to-kindle/media/white-15.png" /><span>Send to Kindle</span>
+  
 </div>
 
-<a rel="author" href="https://plus.google.com/111433366670841346629?rel=author"  >Google+</a>
+
 
  [1]: http://www.gnome.org/projects/evolution/
  [2]: http://www.gmail.com

@@ -26,10 +26,10 @@ Gabba Gabba hey
 Bonzo
 
 <div class='kindleWidget kindleLight' >
-  <img src="http://magni.me/wp-content/plugins/send-to-kindle/media/white-15.png" /><span>Send to Kindle</span>
+  
 </div>
 
-<a rel="author" href="https://plus.google.com/111433366670841346629?rel=author"  >Google+</a>
+
 
  [1]: http://magni.me/wp-content/uploads/2007/09/tuxfrag.jpg
  [2]: http://www.agi.it/economia/notizie/200709171005-eco-rt11014-art.html

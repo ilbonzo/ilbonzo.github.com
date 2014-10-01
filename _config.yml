@@ -1,11 +1,53 @@
-# Site settings
+# Site wide configuration
+
 title: Matteo Magni
-email: matteo@magni.me
-description: Matteo Magni - web developer. Just Another Geek!
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://magni.me" # the base hostname & protocol for your site
-twitter_username: ilbonzo
-github_username:  ilbonzo
-name: Matteo Magni
-# Build settings
-markdown: kramdown
+locale: en_US
+description: Just Another Geek!
+logo: ilbonzo.jpg
+search: true
+url:
+
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..2
+  use_coderay: false
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+
+
+# Site owner
+owner:
+  name: Matteo Magni
+  avatar: ilbonzo.jpg
+  email: matteo@magni.me
+  disqus-shortname:
+  twitter: ilbonzo
+  facebook: ilbonzo
+  github: ilbonzo
+  # stackexchange: #http://stackoverflow.com/users/123456/username
+  linkedin: matteomagni
+  instagram: ilbonzo
+  flickr: ilbonzo
+  tumblr: http://matteomagni.info
+  google:
+    plus: MatteoMagni
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:

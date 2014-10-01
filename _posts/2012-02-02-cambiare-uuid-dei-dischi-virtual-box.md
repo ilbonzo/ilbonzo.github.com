@@ -45,10 +45,10 @@ Il risultato è questo:
 Riprovando ad avviare la macchina l&#8217;errore non verrà più rivelato.
 
 <div class='kindleWidget kindleLight' >
-  <img src="http://magni.me/wp-content/plugins/send-to-kindle/media/white-15.png" /><span>Send to Kindle</span>
+  
 </div>
 
-<a rel="author" href="https://plus.google.com/111433366670841346629?rel=author"  >Google+</a>
+
 
  [1]: http://blog.ilbonzo.org/2010/09/28/certificazione-linux-lpic-1-junior-admin/ "Certificazione Linux LPIC-1 junior admin"
  [2]: http://blog.ilbonzo.org/2007/05/24/virtualizzazione/ "Virtualizzazione"

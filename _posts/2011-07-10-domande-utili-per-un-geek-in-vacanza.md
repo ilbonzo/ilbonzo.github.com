@@ -66,10 +66,10 @@ Domani si torna a lavoro e quindi anche qui ho chiesto &#8220;aiuto&#8221; alla 
 Gabba Gabba Hey!!
 
 <div class='kindleWidget kindleLight' >
-  <img src="http://magni.me/wp-content/plugins/send-to-kindle/media/white-15.png" /><span>Send to Kindle</span>
+  
 </div>
 
-<a rel="author" href="https://plus.google.com/111433366670841346629?rel=author"  >Google+</a>
+
 
  [1]: http://www.flickr.com/photos/ilbonzo/5923415831/ "Paguro di Matteo 'bonzo' Magni, su Flickr"
  [2]: http://twitter.com/#!/search?q=%23sonproblemi

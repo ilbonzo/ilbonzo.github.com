@@ -240,7 +240,6 @@ KEY \`node\_type\_book_nid\` (nid)
 Dopo aver creato la tabella e attivato il modulo avrete un nuovo tipo di contenuto disponibile.
 
 <div class='kindleWidget kindleLight' >
-  <img src="http://magni.me/wp-content/plugins/send-to-kindle/media/white-15.png" /><span>Send to Kindle</span>
+  
 </div>
 
-<a rel="author" href="https://plus.google.com/111433366670841346629?rel=author"  >Google+</a>

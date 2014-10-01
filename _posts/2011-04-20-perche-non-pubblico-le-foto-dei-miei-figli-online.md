@@ -29,10 +29,10 @@ Ultimamente Si è parlato molto di Report e della puntata sulla rete, io condivi
 **Private companies aren’t motivated by your best interests**.
 
 <div class='kindleWidget kindleLight' >
-  <img src="http://magni.me/wp-content/plugins/send-to-kindle/media/white-15.png" /><span>Send to Kindle</span>
+  
 </div>
 
-<a rel="author" href="https://plus.google.com/111433366670841346629?rel=author"  >Google+</a>
+
 
  [1]: http://www.salon.com/life/parenting/?story=/mwt/feature/2011/04/18/why_i_do_not_post_pictures_of_my_children
  [2]: http://www.flickr.com/photos/ilbonzo/4699424671/ "Forza azzurri di ilbonzo.org, su Flickr"

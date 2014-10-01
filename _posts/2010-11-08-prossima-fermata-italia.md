@@ -59,10 +59,10 @@ Ed in conclusione la **Carta di Firenze**:
 <http://www.andiamooltre.it/firenze/ultime/carta-di-firenze.html>
 
 <div class='kindleWidget kindleLight' >
-  <img src="http://magni.me/wp-content/plugins/send-to-kindle/media/white-15.png" /><span>Send to Kindle</span>
+  
 </div>
 
-<a rel="author" href="https://plus.google.com/111433366670841346629?rel=author"  >Google+</a>
+
 
  [1]: http://www.andiamooltre.it/firenze/
  [2]: http://twitter.com/Zaktweet

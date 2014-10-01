@@ -37,9 +37,9 @@ Il codice del progetto è disponibile su <a href="https://github.com/ilbonzo/Wad
 [<img src="http://magni.me/wp-content/uploads/2012/05/AuK6GeqCIAAoUF5-300x225.jpg" alt="" title="ilbonzo @pugBologna" width="300" height="225" class="aligncenter size-medium wp-image-611" />][1]
 
 <div class='kindleWidget kindleLight' >
-  <img src="http://magni.me/wp-content/plugins/send-to-kindle/media/white-15.png" /><span>Send to Kindle</span>
+  
 </div>
 
-<a rel="author" href="https://plus.google.com/111433366670841346629?rel=author"  >Google+</a>
+
 
  [1]: http://magni.me/wp-content/uploads/2012/05/AuK6GeqCIAAoUF5.jpg

@@ -16,4 +16,3 @@ il software è molto intuitivo, e nonostante non sia perfetta la traduzione in i
 <p>Mi sembra sia una applicazione ottima per le scuole e per tutte le situazioni in cui si vuole fare qualcosa di carino con i ragazzi ma non si hanno a disposizione molte risorse. Io infatti l&#8217;ho utilizzato per un progetto con un gruppo socio-educativo e penso che in futuro proverò a proporlo ad altre situazione.</p>
 <p>Gabba Gabba Hey<br />
 Bonzo</p>
-<div class='kindleWidget kindleLight' ><img src="http://magni.me/wp-content/plugins/send-to-kindle/media/white-15.png" /><span>Send to Kindle</span></div><a rel="author" href="https://plus.google.com/111433366670841346629?rel=author"  >Google+</a>

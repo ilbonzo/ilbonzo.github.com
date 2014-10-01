@@ -169,9 +169,9 @@ sudo /var/trac-env/python/bin/easy_install dist/TracBonzo-0.1-py2.6.egg</pre>
 Dopo aver riavviato il web server il plugin è disponibile nell&#8217;enviroment e basta attivarlo attraverso l&#8217;admin plugin.
 
 <div class='kindleWidget kindleLight' >
-  <img src="http://magni.me/wp-content/plugins/send-to-kindle/media/white-15.png" /><span>Send to Kindle</span>
+  
 </div>
 
-<a rel="author" href="https://plus.google.com/111433366670841346629?rel=author"  >Google+</a>
+
 
  [1]: http://magni.me/wp-content/uploads/2012/07/trac_logo.png

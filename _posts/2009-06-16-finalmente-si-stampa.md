@@ -31,4 +31,3 @@ http://localhost:631 or if you don&#8217;t want to do that you can go to System>
 <p>Un grazie per aver creato il pacchetto:<br />
 <a href=" http://mambo.kuhp.kyoto-u.ac.jp/~takushi/#canon"></p>
 <p>http://mambo.kuhp.kyoto-u.ac.jp/&#8230;</a></p>
-<div class='kindleWidget kindleLight' ><img src="http://magni.me/wp-content/plugins/send-to-kindle/media/white-15.png" /><span>Send to Kindle</span></div><a rel="author" href="https://plus.google.com/111433366670841346629?rel=author"  >Google+</a>

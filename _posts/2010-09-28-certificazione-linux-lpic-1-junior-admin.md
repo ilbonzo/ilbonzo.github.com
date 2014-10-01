@@ -62,10 +62,10 @@ Dimenticavo, la maggior parte del materiale e l&#8217;esame sono ovviamente in i
 Questa è stata la mia esperienza, in futuro ovviamente cercherò di ottenere anche la certificazione di livello 2.
 
 <div class='kindleWidget kindleLight' >
-  <img src="http://magni.me/wp-content/plugins/send-to-kindle/media/white-15.png" /><span>Send to Kindle</span>
+  
 </div>
 
-<a rel="author" href="https://plus.google.com/111433366670841346629?rel=author"  >Google+</a>
+
 
  [1]: http://www.lpi.org/
  [2]: http://www.lpi-italia.org/certificazione/programmi/lpic-1/

@@ -35,10 +35,10 @@ Il primo amore non si scorda mai, quindi ecco le foto del mio C64 che possiedo e
 Happy hacking a tutti
 
 <div class='kindleWidget kindleLight' >
-  <img src="http://magni.me/wp-content/plugins/send-to-kindle/media/white-15.png" /><span>Send to Kindle</span>
+  
 </div>
 
-<a rel="author" href="https://plus.google.com/111433366670841346629?rel=author"  >Google+</a>
+
 
  [1]: http://www.flickr.com/photos/ilbonzo/4463940793/ "Resurrection C64 di Matteo 'bonzo' Magni, su Flickr"
  [2]: http://www.flickr.com/photos/ilbonzo/4464744952/ "Gary Lineker's di Matteo 'bonzo' Magni, su Flickr"

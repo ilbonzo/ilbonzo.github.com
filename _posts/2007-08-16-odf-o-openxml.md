@@ -60,4 +60,3 @@ Purtroppo però non è conpatibile con odf.</p>
 <p>Qualcuno vuole ODF, qualcuno vuole OpenXML&#8230;La guerra dei formati da ufficio va avanti, chissà se riusciremo ad avere un formato unico per tutti prima o poi e a smetterla di ricevere Doc e compagnia bella?!?!</p>
 <p>Gabba Gabba Hey<br />
 Bonzo</p>
-<div class='kindleWidget kindleLight' ><img src="http://magni.me/wp-content/plugins/send-to-kindle/media/white-15.png" /><span>Send to Kindle</span></div><a rel="author" href="https://plus.google.com/111433366670841346629?rel=author"  >Google+</a>

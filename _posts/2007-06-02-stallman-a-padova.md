@@ -30,10 +30,10 @@ Gabba Gabba Hey
 Bonzo
 
 <div class='kindleWidget kindleLight' >
-  <img src="http://magni.me/wp-content/plugins/send-to-kindle/media/white-15.png" /><span>Send to Kindle</span>
+  
 </div>
 
-<a rel="author" href="https://plus.google.com/111433366670841346629?rel=author"  >Google+</a>
+
 
  [1]: http://magni.me/wp-content/uploads/2007/06/stallman1.jpeg
  [2]: http://lists.linux.it/pipermail/trashware/2007-May/002160.html

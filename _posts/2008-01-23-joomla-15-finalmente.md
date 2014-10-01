@@ -21,4 +21,3 @@ tags:
 <p>Purtroppo non sono riuscito ad andare al joomla day, in cui c&#8217;era un talk sulla migrazione, spero che i video dell&#8217;evento prima o poi siano disponibili on-line.</p>
 <p>Gabba Gabba hey<br />
 Bonzo</p>
-<div class='kindleWidget kindleLight' ><img src="http://magni.me/wp-content/plugins/send-to-kindle/media/white-15.png" /><span>Send to Kindle</span></div><a rel="author" href="https://plus.google.com/111433366670841346629?rel=author"  >Google+</a>

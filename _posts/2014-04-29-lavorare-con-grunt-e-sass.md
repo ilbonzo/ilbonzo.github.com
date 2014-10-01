@@ -44,13 +44,13 @@ Per iniziare installiamo *NodeJs*:
 
 <!--more-->
 
-  
+
 Poi dobbiamo configurare le dipendenze npm:
 
 <pre class="lang:sh decode:true " >$ npm init
-$ npm install grunt --save-dev 
-$ npm install grunt-contrib-sass --save-dev 
-$ npm install grunt-contrib-watch --save-dev 
+$ npm install grunt --save-dev
+$ npm install grunt-contrib-sass --save-dev
+$ npm install grunt-contrib-watch --save-dev
 </pre>
 
 A questo punto avremo un *packeage.json* simile a questo:
@@ -71,7 +71,7 @@ Per usare grunt da riga di comando dobbiamo installare *Grunt Cli*
 <pre class="lang:sh decode:true " >$ sudo npm install -g grunt-cli
 </pre>
 
-Installiamo *Sass* (necessità di Ruby installato) 
+Installiamo *Sass* (necessità di Ruby installato)
 
 <pre class="lang:sh decode:true " >$ sudo gem install sass
 </pre>
@@ -108,9 +108,9 @@ A questo punto quando lavoriamo ci basterà lanciare grunt ed avremo il watch su
 </pre>
 
 <div class='kindleWidget kindleLight' >
-  <img src="http://magni.me/wp-content/plugins/send-to-kindle/media/white-15.png" /><span>Send to Kindle</span>
+
 </div>
 
-<a rel="author" href="https://plus.google.com/111433366670841346629?rel=author"  >Google+</a>
+
 
  [1]: http://magni.me/wp-content/uploads/2014/04/grunt-logo-1.png

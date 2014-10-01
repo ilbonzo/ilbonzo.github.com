@@ -26,10 +26,10 @@ Se è così diventa un problema per tutti gli utenti Linux, visto che in giro si
 Aspettiamo che altri seguano Dell e comincino a produrre computer garantiti con Linux e magari anch con Bsd o tutti i gli altri sistemi operativi che voglio provare&#8230;.
 
 <div class='kindleWidget kindleLight' >
-  <img src="http://magni.me/wp-content/plugins/send-to-kindle/media/white-15.png" /><span>Send to Kindle</span>
+  
 </div>
 
-<a rel="author" href="https://plus.google.com/111433366670841346629?rel=author"  >Google+</a>
+
 
  [1]: http://enterprise.linux.com/article.pl?sid=07/03/23/1430204&#038;from=rss
  [2]: http://magni.me/wp-content/uploads/2007/06/images.jpg
