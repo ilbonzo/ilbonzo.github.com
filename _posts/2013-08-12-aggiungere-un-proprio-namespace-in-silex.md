@@ -33,7 +33,8 @@ Creiamo la cartella per le nostre classi:
     $ mkdir NewNamespace
 
 Creiamo la classe che vogliamo caricare:  
-$ vi src/NewNamespace/MyClass.php
+
+    $ vi src/NewNamespace/MyClass.php
 
 Nella classe mettiamo il codice per registrare il nuovo namespace:  
 
