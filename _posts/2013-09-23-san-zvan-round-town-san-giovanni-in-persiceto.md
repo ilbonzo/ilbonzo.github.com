@@ -49,7 +49,7 @@ La parte [Web Service][7] invece è sviluppata con:
 
 Al momento l&#8217;applicazione è utilizzabile da web o installandola dal Google Play.
 
-**<http://app.sanzvan.it>****
+**<http://app.sanzvan.it>**
 
 Il codice è disponibile su [github][2] ed è rilasciato sotto licenza [GNU General Public License, Version 2.0][11].
 
