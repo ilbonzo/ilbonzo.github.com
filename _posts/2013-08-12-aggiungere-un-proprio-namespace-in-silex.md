@@ -29,8 +29,8 @@ Se vogliamo aggiungere un nostro namespace personalizzato potendo caricare le cl
 
 Creiamo la cartella per le nostre classi:  
 
-<pre class="lang:sh decode:true">$ cd my-silex-project/src
-$ mkdir NewNamespace</pre>
+    $ cd my-silex-project/src
+    $ mkdir NewNamespace
 
 Creiamo la classe che vogliamo caricare:  
 $ vi src/NewNamespace/MyClass.php
@@ -38,10 +38,8 @@ $ vi src/NewNamespace/MyClass.php
 Nella classe mettiamo il codice per registrare il nuovo namespace:  
 `</p>
 <pre class="lang:php decode:true " >namespace NewNamespace;
-
 class MyClass {
     public function __construct() {
-
     }
 }</pre>
 <p>`
