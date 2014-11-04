@@ -28,13 +28,11 @@ share: true
 Se vogliamo aggiungere un nostro namespace personalizzato potendo caricare le classi attraverso l&#8217;autoloader dei Silex dobbiamo seguire questa procedura.
 
 Creiamo la cartella per le nostre classi:  
-<pre class="lang:sh decode:true " >$ cd my-silex-project/src
+<pre class="lang:sh decode:true">$ cd my-silex-project/src
 $ mkdir NewNamespace</pre>
 
 Creiamo la classe che vogliamo caricare:  
-`<br />
-$ vi src/NewNamespace/MyClass.php<br />
-`
+$ vi src/NewNamespace/MyClass.php
 
 Nella classe mettiamo il codice per registrare il nuovo namespace:  
 `</p>
