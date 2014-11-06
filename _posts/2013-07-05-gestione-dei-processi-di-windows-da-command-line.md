@@ -26,22 +26,16 @@ share: true
 </p>
 
 *Ottenere la lista dei processi:*  
-`<br />
-tasklist /v<br />
-`
+
+    tasklist /v
 
 *Fermare un processo in base al PID:*  
-`<br />
-taskkill /f /pid 1234<br />
-`
+
+    taskkill /f /pid 1234
 
 *Fermare un processo in base al nome:*  
-`<br />
-taskkill /f /im java*<br />
-`
+
+    taskkill /f /im java*
 
 L&#8217;opzione /f serve per forzare l&#8217;interruzione del processo.
 
-<div class='kindleWidget kindleLight' >
-
-</div>
