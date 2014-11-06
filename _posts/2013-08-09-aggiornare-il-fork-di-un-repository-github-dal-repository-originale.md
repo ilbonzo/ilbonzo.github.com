@@ -28,30 +28,22 @@ share: true
 </p>
 
 *Aggiungiamo l&#8217;url del repository originale nei remote*  
-`<br />
-$ git remote add --track master openovate https://github.com/Openovate/eden.git<br />
-`
+
+    $ git remote add --track master openovate https://github.com/Openovate/eden.git
 
 *Verifichiamo che il repo sia stato aggiunto*  
-`<br />
-$ git remote<br />
-`
+
+    $ git remote
 
 *Eseguiamo il fetch del repository originale, questo creerà un branch chiamato openovate/master*  
-`<br />
-$ git fetch openovate<br />
-`
+
+    $ git fetch openovate
 
 *Eseguiamo il merge con il nostro master*  
-`<br />
-$ git merge openovate/master<br />
-`
+
+    $ git merge openovate/master
 
 *Mandiamo al nostro origin le nuove modifiche*  
-`<br />
-$ git push origin master<br />
-`
 
-<div class='kindleWidget kindleLight' >
+    $ git push origin master
 
-</div>
