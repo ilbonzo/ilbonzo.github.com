@@ -40,11 +40,12 @@ Per lo sviluppo su *Android* per esempio viene utilizzato Ant per gestire la bui
 5.  Estrarre lo zip in una cartella, esempio `"C:\Ant"`
 6.  Impostare la variabile di ambiente ANT_HOME inserendo il percorso dove abbiamo scompattato **ANT**, esempio `"C:\Ant"`
 7.  A questo punto per verificare che sia tutto ok apriamo una riga di comando e diamo il comando ant -version:
+
 `C:\Users\magnim>ant -version` 
 
 `Apache Ant(TM) version 1.9.1 compiled on May 15 2013`
     
-    Se l&#8217;output non da errori vuol dire che Ant è installato correttamente.
+    Se l'output non da errori vuol dire che Ant è installato correttamente.
 
 
 
