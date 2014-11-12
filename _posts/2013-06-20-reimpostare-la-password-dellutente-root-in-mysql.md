@@ -54,17 +54,12 @@ Ora possiamo accedere a Mysql senza password:
 `mysql -u root mysql`
 
 Entrati nella shell di mysql settiamo la nuova password di root:  
-`UPDATE user SET password=PASSWORD("newpassword") WHERE User='root';<br />
-FLUSH PRIVILEGES;<br />
+`UPDATE user SET password=PASSWORD("newpassword") WHERE User='root';
+FLUSH PRIVILEGES;
 exit;`
 
 Ora riavviamo il processo mysql ed avremo la possibilità di accedere con la nuova password  
 `service mysqld restart`
-
-<div class='kindleWidget kindleLight' >
-
-</div>
-
 
 
  [1]: http://www.mysql.com/ "MySQL"
