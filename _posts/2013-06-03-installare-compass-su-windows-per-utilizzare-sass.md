@@ -30,37 +30,41 @@ share: true
 Ecco un piccolo howto per configurare **[Compass][2]** su windows al fine di lavorare con **[Sass][3]**:
 
 1.  Installare Ruby sulla macchina:  
+
+
     <http://rubyinstaller.org/downloads/>
+
 2.  Aprire il prompt di MS-DOS con Ruby
 3.  Installare le gemme  
-    `$ gem update --system<br />
-$ gem install compass`
-4.  Verificare che compass sia installato correttamente lanciare il comando  
-    `<br />
-ruby 2.0.0p195 (2013-05-14) [i386-mingw32]</p>
-<p>C:\Users\magnim>compass -v<br />
-Compass 0.12.2 (Alnilam)<br />
-Copyright (c) 2008-2013 Chris Eppstein<br />
-Released under the MIT License.<br />
-Compass is charityware.<br />
-Please make a tax deductable donation for a worthy cause: http://umdf.org/compass<br />
-`
 
-*L&#8217;installazione è completa.*
+
+    $ gem update --system
+    $ gem install compass
+
+4.  Verificare che compass sia installato correttamente lanciare il comando  
+
+
+    ruby 2.0.0p195 (2013-05-14) [i386-mingw32]
+    C:\Users\magnim>compass -v
+    Compass 0.12.2 (Alnilam)
+    Copyright (c) 2008-2013 Chris Eppstein
+    Released under the MIT License.
+    Compass is charityware.
+    Please make a tax deductable donation for a worthy cause: http://umdf.org/compass
+
+
+*L'installazione è completa.*
 
 **Compilare i .scss**  
 Per generare i css lanciare da riga di comando:  
-`<br />
-C:\Users\magnim>compass compile --config compass.config.rb`
+
+    C:\Users\magnim>compass compile --config compass.config.rb
 
 **Compass in background**  
 Per avere compass che in background genera i css che vengono modificati lanciare da riga di comando:  
-`<br />
-C:\Users\magnim>compass watch --config compass-config.rb`
 
-<div class='kindleWidget kindleLight' >
+    C:\Users\magnim>compass watch --config compass-config.rb
 
-</div>
 
 
 
