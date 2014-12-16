@@ -31,15 +31,14 @@ share: true
 Nel caso si voglia reimpostare la password dell&#8217;utente root di **[Mysql Server][1]** abbiamo due metodi:
 
 **Primo metodo**  
-`mysqladmin -u root -p password secret`
+
+    mysqladmin -u root -p password secret
 
 *secret* sarà la nostra nuova password.  
 Per fare la modifica ci verrà però chiesta l&#8217;attuale password di root, quindi è necessario conoscerla.
 
 **Secondo metodo**  
 Se ci fossimo dimenticati la password di root precedentemente impostata, la procedura da seguire è invece questa:  
-<!--more-->
-
 
 Prima di tutto dobbiamo fermare il servizio *mysql*.  
 
