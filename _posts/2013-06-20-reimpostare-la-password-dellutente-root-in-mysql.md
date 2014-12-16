@@ -42,26 +42,29 @@ Se ci fossimo dimenticati la password di root precedentemente impostata, la proc
 
 
 Prima di tutto dobbiamo fermare il servizio *mysql*.  
-`service mysqld stop`
+
+    service mysqld stop
 
 Ora dobbiamo avviare il servizio, disabilitando i sistemi di autenticazione  
-`mysqld --skip-grant-tables &`
+
+    mysqld --skip-grant-tables &
 
 Aggiungendo l&#8217;opzione &#8211;skip-networking possiamo disabilitare l&#8217;accesso da remoto per evitare che qualcuno sfrutti questa temporanea apertura.  
-`mysqld --skip-grant-tables --skip-networking &`
+
+    mysqld --skip-grant-tables --skip-networking &
 
 Ora possiamo accedere a Mysql senza password:  
-`mysql -u root mysql`
+
+    mysql -u root mysql
 
 Entrati nella shell di mysql settiamo la nuova password di root:  
-`UPDATE user SET password=PASSWORD("newpassword") WHERE User='root';`
 
-`FLUSH PRIVILEGES;`
-
-`exit;`
+    UPDATE user SET password=PASSWORD("newpassword") WHERE User='root';
+    FLUSH PRIVILEGES;
 
 Ora riavviamo il processo mysql ed avremo la possibilità di accedere con la nuova password  
-`service mysqld restart`
+
+    service mysqld restart
 
 
  [1]: http://www.mysql.com/ "MySQL"
