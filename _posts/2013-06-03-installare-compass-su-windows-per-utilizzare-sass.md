@@ -29,20 +29,19 @@ share: true
 
 Ecco un piccolo howto per configurare **[Compass][2]** su windows al fine di lavorare con **[Sass][3]**:
 
-1.  Installare Ruby sulla macchina:  
+Installare Ruby sulla macchina:  
 
 
     <http://rubyinstaller.org/downloads/>
 
-2.  Aprire il prompt di MS-DOS con Ruby
-3.  Installare le gemme  
+Aprire il prompt di MS-DOS con Ruby
 
+Installare le gemme  
 
     $ gem update --system
     $ gem install compass
 
-4.  Verificare che compass sia installato correttamente lanciare il comando  
-
+Verificare che compass sia installato correttamente lanciare il comando  
 
     ruby 2.0.0p195 (2013-05-14) [i386-mingw32]
     C:\Users\magnim>compass -v
