@@ -34,58 +34,50 @@ share: true
 
 
 **Installare git svn:**  
-`<br />
-$ sudo aptitude install git-svn<br />
-`
+
+    $ sudo aptitude install git-svn
+
 
 **Importare il *trunk***
 
-1.  Clonare con git il repo svn:  
-    `<br />
-$ git svn clone -s http://url.com/myrepos<br />
-`  
-    L&#8217;opzione -s va usata per specificare che il repo svn ha la struttura [trunk/branches/tags]</p>
-2.  Creare il repository git remoto (per esempio su [bitbucket][3] o [github][4]).  
+Clonare con git il repo svn:  
 
+    $ git svn clone -s http://url.com/myrepos
+    
+L'opzione -s va usata per specificare che il repo svn ha la struttura [trunk/branches/tags]
 
-3.  Aggiungere il repository remoto:  
-    `<br />
-$ git remote add origin https://ilbonzo@bitbucket.org/ilbonzo/myrepos.git<br />
-`</p>
-4.  Fare push di tutto su origin:  
-    `<br />
-$ git push -u --all origin<br />
-`</p>
+Creare il repository git remoto (per esempio su [bitbucket][3] o [github][4]).  
+
+Aggiungere il repository remoto:  
+
+    $ git remote add origin https://ilbonzo@bitbucket.org/ilbonzo/myrepos.git
+
+Fare push di tutto su origin:  
+
+    $ git push -u --all origin
 
 **Gestione dei *branches*:**
 
-1.  Lista dei branches importati da svn  
-    `<br />
-$ git branch -r<br />
-FirstBranch<br />
-SecondBranch<br />
-`</p>
-2.  Diciamo a git di tenere traccia di quei branch  
-    `<br />
-$ git branch --track FirstBranch<br />
-$ git branch --track SecondBranch<br />
-`</p>
-3.  Inviamo i branch sul repo remoto  
-    `<br />
-$ git push -u --all origin<br />
-`
+Lista dei branches importati da svn  
+
+    $ git branch -r
+    FirstBranch
+    SecondBranch
+  
+Diciamo a git di tenere traccia di quei branch  
+
+    $ git branch --track FirstBranch
+    $ git branch --track SecondBranch
+
+Inviamo i branch sul repo remoto  
+
+    $ git push -u --all origin
 
 Finalmente il nostro codice è su **git** con tutti i vantaggi del caso.
 
 <div id="pdrp_endAttribution">
   photo by: <a href="http://flickr.com/41894185093@N01/16372763" target="_blank" class="pdrp_link pdrp_attributionLink"> Jon_Aquino</a>
 </div>
-
-<div class='kindleWidget kindleLight' >
-
-</div>
-
-
 
  [1]: http://it.wikipedia.org/wiki/Subversion
  [2]: http://it.wikipedia.org/wiki/Git_(software)
