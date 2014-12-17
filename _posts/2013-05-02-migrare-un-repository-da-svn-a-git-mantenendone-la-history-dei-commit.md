@@ -23,15 +23,9 @@ tags:
 comments: true
 share: true
 ---
-<img src="http://magni.me/wp-content/uploads/2013/05/img0372-300x225.jpg" alt="IMG_0372" width="300" height="225" class="alignleft size-medium wp-image-795" /> Nel caso si voglia portare un repository [**svn**][1] su [**git**][2] mantenendone la history dei vari commit si può seguire questa procedura.  
+<img src="http://magni.me/wp-content/uploads/2013/05/img0372-300x225.jpg" alt="IMG_0372" width="300" height="225" class="alignleft size-medium wp-image-795" /> 
 
-
-
-
-
-
-<!--more-->
-
+Nel caso si voglia portare un repository [**svn**][1] su [**git**][2] mantenendone la history dei vari commit si può seguire questa procedura.  
 
 **Installare git svn:**  
 
