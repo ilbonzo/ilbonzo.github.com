@@ -18,6 +18,7 @@ image:
 
 <h2>Projects</h2>
 <ul>
+<li><a href="https://www.npmjs.com/package/node-zenhubt">node-zenhub</a></li>
 <li><a href="http://app.sanzvan.it">San Zvan</a></li>
 <li><a href="http://hoaas.herokuapp.com/">Hoaas (Hodor as a service)</a></li>
 </ul>
