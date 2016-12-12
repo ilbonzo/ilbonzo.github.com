@@ -11,6 +11,7 @@ image:
 
 <h2>Presentations</h2>
 <ul>
+<li><a href="/Introduction-to-DevOps-with-Ansible/">Introduction to DevOps with Ansible</a></li>
 <li><a href="/presentation-cordova-phonegap-course">Cordova/Phonegap Course</a></li>
 <li><a href="/presentation-pugbo-php54">PHP 5.3/5.4 features</a></li>
 <li><a href="http://www.slideshare.net/ilbonzo/introduction-to-zend-framework-13136119">Introduction to Zend Framework</a></li>
