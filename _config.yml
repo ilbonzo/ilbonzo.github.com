@@ -5,7 +5,7 @@ locale: en_US
 description: Just Another Geek!
 logo: ilbonzo.jpg
 search: true
-url:
+url: https://magni.me
 
 
 # Jekyll configuration
