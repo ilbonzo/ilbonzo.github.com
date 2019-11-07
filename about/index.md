@@ -11,6 +11,7 @@ image:
 
 <h2>Presentations</h2>
 <ul>
+<li><a href="/steps-to-better-manage-and-deploy-code/">Steps to better manage and deploy code</a></li>
 <li><a href="/Introduction-to-DevOps-with-Ansible/">Introduction to DevOps with Ansible</a></li>
 <li><a href="/presentation-lpic-1/">LPIC-1 presentation</a></li>
 <li><a href="/presentation-cordova-phonegap-course">Cordova/Phonegap Course</a></li>
