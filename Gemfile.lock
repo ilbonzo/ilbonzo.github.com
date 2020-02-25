@@ -57,7 +57,7 @@ GEM
       rb-inotify (>= 0.9)
     mercenary (0.3.4)
     mini_portile2 (2.4.0)
-    nokogiri (1.10.4)
+    nokogiri (1.10.8)
       mini_portile2 (~> 2.4.0)
     octopress (3.0.0.rc.15)
       jekyll (~> 2.0)
